@@ -14,7 +14,15 @@ Check your email and enter the token.
 
 You will then need to enter a new password. The password has to be minimum 12 alphanumeric, with at least 1 upper case, 1 lower case, 1 numeral, and 1 with special character (e.g. *!?#).
 
+### What if I never receive my one time token?
+First, go to your Junk Email folder in your Outlook to see if it landed there.
 
+If it's not there, go back to the Create Account view and enter your work email to receive the one time token again.
+
+### I tried to create account but the app tells me I'm not available for registration yet.
+First, please go back to the Create Account view and try to enter your work email again. Sometimes, it might have been due to accidental taps on other characters.
+
+If it still fails, please contact your agency's IT helpdesk team.
 
 ## 2. Sign in
 ## 3. Forgot password
