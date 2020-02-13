@@ -2,6 +2,10 @@
 title: This is a Document Title
 subtitle: bacon bacon
 order:
- - page1.md
- - page2.md
+ - My Account.md
+ - Resource.md
+ - Visitor.md
+ - Business Card.md
+ - Transport Claim.md
+ - Leave.md
 ---
