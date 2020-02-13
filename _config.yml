@@ -21,3 +21,15 @@ hide_toolbar:
   sidebar: false
   pdf: true
   github: true
+
+  folders
+    name: '/'
+    title: 'DWP Mobile Help Center'
+    subtitle: ''
+    order:
+       - My Account.md
+        - Resource.md
+        - Visitor.md
+        - Business Card.md
+        - Transport Claim.md
+        - Leave.md
