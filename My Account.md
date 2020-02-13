@@ -39,5 +39,38 @@ The accounts are not linked for now. However, we are in works to allow access to
 We seek your patience and support!
 
 ## 2. Sign in
+
+### I'm having problem with signing in.
+First, please ensure that you have typed in your work email and password correctly. Sometimes, it might have been due to accidental taps on other characters.
+
+If it still fails, please contact your agency's IT helpdesk team.
+
+### I tried to sign in but the app tells me I have not created a Digital Workplace account yet.
+First, please go back to the Sign In view and try to enter your work email and password again. Sometimes, it might have been due to accidental taps on other characters.
+
+If it still fails, please contact your agency's IT helpdesk team.
+
 ## 3. Forgot password
+### What if I forgot my password?
+Go to Sign In view and tap on "Forgot Password".
+
+You will be required to complete two steps to set a new password.
+
+Step 1:
+Enter your work email.
+
+A one time token will be sent to your work email. 
+
+Step 2:
+Check your email and enter the token. 
+
+You will then need to enter a new password. The password has to be minimum 12 alphanumeric, with at least 1 upper case, 1 lower case, 1 numeral, and 1 with special character (e.g. *!?#).
+
+
 ## 4. Change password
+### How can I change my password?
+On the Home view, go to Settings to change password.
+
+You will be required to enter both your old password and your new password.
+
+The password has to be minimum 12 alphanumeric, with at least 1 upper case, 1 lower case, 1 numeral, and 1 with special character (e.g. *!?#).
