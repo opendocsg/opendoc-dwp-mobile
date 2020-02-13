@@ -22,8 +22,8 @@ hide_toolbar:
   pdf: true
   github: true
 
-  folders
-    - name: '/'
+folders:
+  - name: '/'
     title: 'DWP Mobile Help Center'
     subtitle: ''
     order:
