@@ -1,20 +1,23 @@
-title: OpenDoc DWP Mobile
+title: DWP Mobile Help Center
 remote_theme: opendocsg/opendoc-theme@master
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-dwp-mobile
 plugins:
   - jekyll-include-cache
-baseurl: ''
+baseurl: ""
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
-google_analytics:  
-
+google_analytics: null
 fast_build: false
 offline: false
 preload_pages: true
-
 styling_options:
-  primary_brand_color: '#444'  #----> Optional, theme color
-  logo_path: /assets/logo.png  #----> Optional, path to logo
+  primary_brand_color: "#376eee"
+  logo_path: /assets/logo.png
   opendoc_logo_path: /assets/images/logo-full.png
-  feedback_url: https://form.gov.sg/5cee3d46138e3200109244df #----> Optional, feedback url
+  feedback_url: https://form.gov.sg/5cee3d46138e3200109244df
+  logo_url: /
+hide_toolbar:
+  sidebar: false
+  pdf: true
+  github: true
