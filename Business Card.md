@@ -1,6 +1,6 @@
 # Business Card
 
 ## How can I get my digital business card?
-You can 
+You can try
 
 ## How do you scan?
