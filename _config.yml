@@ -23,7 +23,7 @@ hide_toolbar:
   github: true
 
   folders
-    name: '/'
+    - name: '/'
     title: 'DWP Mobile Help Center'
     subtitle: ''
     order:
