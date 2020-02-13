@@ -24,6 +24,20 @@ First, please go back to the Create Account view and try to enter your work emai
 
 If it still fails, please contact your agency's IT helpdesk team.
 
+### I tried to create account but the app tells me I have an existing account.
+First, please go to Sign In view to try to sign in. Tap on "Forgot Password" if you have forgotten it.
+
+If you are sure that you have never created an account before, please go back to the Create Account view and try to enter your work email again. Sometimes, it might have been due to accidental taps on other characters.
+
+If it still fails, please contact your agency's IT helpdesk team.
+
+### Is this the same account as My HR Kiosk?
+Unfortunately, no.
+
+The accounts are not linked for now. However, we are in works to allow access to transport claims and leave application on DWP Mobile. This means that you will eventually just need to interface with only one app.
+
+We seek your patience and support!
+
 ## 2. Sign in
 ## 3. Forgot password
 ## 4. Change password
