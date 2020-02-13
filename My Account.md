@@ -56,12 +56,12 @@ Go to Sign In view and tap on "Forgot Password".
 
 You will be required to complete two steps to set a new password.
 
-Step 1:
+**Step 1:**
 Enter your work email.
 
 A one time token will be sent to your work email. 
 
-Step 2:
+**Step 2:**
 Check your email and enter the token. 
 
 You will then need to enter a new password. The password has to be minimum 12 alphanumeric, with at least 1 upper case, 1 lower case, 1 numeral, and 1 with special character (e.g. *!?#).
