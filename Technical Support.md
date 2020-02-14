@@ -41,6 +41,4 @@ Push notifications are automatically allowed on Android.
 Please go to your phone's Settings > Apps & Notifications > DWP Mobile to turn on the notification.
 
 
-## 4. Contact
-### Who can I ask for help?
-If you require further assistance, please contact your agency's AFM.
+
