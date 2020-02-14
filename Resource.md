@@ -1,48 +1,14 @@
 # Resource
 
-## 1. How do I book a room?
+## 1. Book room
+### How do I book a room?
 Tapping on the blue arrow button will bring up a menu of the list of things you can do.
 
 Just indicate the date and search for available rooms, then tap on the time slots that you want to book.
 
 Room bookings made on the mobile app interface through API to the same Resource Booking System that you see on resource.digitalworkplace.gov.sg. Therefore, you will be able to see the same booking on your web portal and Outlook.
 
-## 2. How do I view my room bookings?
-Room bookings that you have made on the Resource Booking System will be reflected in the Home view. 
-
-Tap on the entry to view the room booking details. 
-
-## 3. How do I cancel/start/release/extend the room booking?
-Tap on the room booking entry from the Home view to open the booking details view.
-
-You can cancel your room booking anytime from this view before the meeting start time.
-
-When it's within the time to start (determined by your own agency), the green Start button will appear. 
-
-When the room booking is available for Release or Extend, the corresponding buttons will appear in the booking details view as well.
-
-## 4. Why do I need to start the booking?
-This feature is provided by the Resource Booking System for agencies to use.
-
-If you need to start the meeting, it's probably because your agency wants to promote responsible room usage.
-
-There are several ways to start a meeting - from the web portal, Outlook calendar and this mobile app. In some agencies, there might be display panels to let you easily start.
-
-## 5. Will there be push notification to remind me to start the booking?
-Yes, there will be 2 push notifications. 
-
-The first notification will appear 5 minutes before the start time.
-
-The second notification will appear 5 minutes before the auto-release grace period.
-
-If you have problem receiving push notification on your mobile phone, please refer to these articles:
-I'm not receiving Push Notifications on iOS
-I'm not receiving Push Notifications on Android
-
-## 6. Can I do recurring booking?
-Please use the web portal to perform this task.
-
-## 7. Unable to see "book a room" option
+### I cannot see the "book a room" option
 If you are unable to see "Book a Room" option, please go through the checklist below.
 
 
@@ -61,3 +27,44 @@ Else if no, tap on the create ticket button (iOS on top right, Android on bottom
 If you cannot access the web portal on GSIB, then you won't be able to access the book room functionality on mobile.
 Please contact your agency's IT team to provision your account into the Resource Booking System at https://resource.digitalworkplace.gov.sg.
 Upon given access for the web portal, do sign in and sign out from the mobile app for this to take effect.
+
+### Can I do recurring booking?
+Please use the web portal to perform this task.
+
+
+## 2. View Bookings
+### How do I view my room bookings?
+Room bookings that you have made on the Resource Booking System will be reflected in the Home view. 
+
+Tap on the entry to view the room booking details. 
+
+## 3. Manage Bookings
+
+### How do I cancel/start/release/extend the room booking?
+Tap on the room booking entry from the Home view to open the booking details view.
+
+You can cancel your room booking anytime from this view before the meeting start time.
+
+When it's within the time to start (determined by your own agency), the green Start button will appear. 
+
+When the room booking is available for Release or Extend, the corresponding buttons will appear in the booking details view as well.
+
+### Why do I need to start the booking?
+This feature is provided by the Resource Booking System for agencies to use.
+
+If you need to start the meeting, it's probably because your agency wants to promote responsible room usage.
+
+There are several ways to start a meeting - from the web portal, Outlook calendar and this mobile app. In some agencies, there might be display panels to let you easily start.
+
+### Will there be push notification to remind me to start the booking?
+Yes, there will be 2 push notifications. 
+
+The first notification will appear 5 minutes before the start time.
+
+The second notification will appear 5 minutes before the auto-release grace period.
+
+If you have problem receiving push notification on your mobile phone, please refer to these articles:
+I'm not receiving Push Notifications on iOS
+I'm not receiving Push Notifications on Android
+
+
