@@ -15,21 +15,21 @@ styling_options:
   primary_brand_color: "#376eee"
   logo_path: /assets/logo.png
   opendoc_logo_path: /assets/images/logo-full.png
-  feedback_url: https://form.gov.sg/5cee3d46138e3200109244df
+  feedback_url: https://form.gov.sg/5e4648c2b313010011416354
   logo_url: /
 hide_toolbar:
   sidebar: false
   pdf: true
   github: true
 folders:
-  - name: '/'
-    title: 'DWP Mobile Help Center'
-    subtitle: ''
+  - name: /
+    title: DWP Mobile Help Center
+    subtitle: ""
     order:
-      - "My Account.md"
-      - "Resource.md"
-      - "Visitor.md"
-      - "Business Card.md"  
-      - "Transport Claim.md"
-      - "Leave.md"
-      - "Technical Support.md"
+      - My Account.md
+      - Resource.md
+      - Visitor.md
+      - Business Card.md
+      - Transport Claim.md
+      - Leave.md
+      - Technical Support.md
