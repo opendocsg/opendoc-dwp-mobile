@@ -21,9 +21,8 @@ You can download DWP Mobile app on the App Store or Play Store. However this app
 
 For best experience, we recommend it to use it on iPhones or Android phones.
 
-
-### Can I use it on Windows phone?
-Unfortunately, we do not support Windows phone.
+### When will you support on Windows phone?
+Unfortunately, we do not have plans to support Windows phone in the near future.
 
 ### Can I use it on tablet devices (e.g. iPad)?
 You can download DWP Mobile app on the App Store or Play Store. However this app is not optimised for view on the iPad yet.
