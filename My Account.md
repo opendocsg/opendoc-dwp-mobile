@@ -64,7 +64,7 @@ A one time token will be sent to your work email.
 **Step 2:**
 Check your email and enter the token. 
 
-You will then need to enter a new password. The password has to be minimum 12 alphanumeric, with at least 1 upper case, 1 lower case, 1 numeral, and 1 with special character (e.g. *!?#).
+You will then need to enter a new password. The password has to be minimum 12 alphanumeric, with at least 1 upper case, 1 lower case, 1 numeral, and 1 with special character (e.g. !?#). Old password cannot be used as per our password policy.
 
 
 ## 4. Change password
@@ -73,4 +73,29 @@ On the Home view, go to Settings to change password.
 
 You will be required to enter both your old password and your new password.
 
-The password has to be minimum 12 alphanumeric, with at least 1 upper case, 1 lower case, 1 numeral, and 1 with special character (e.g. *!?#).
+You will then need to enter a new password. The password has to be minimum 12 alphanumeric, with at least 1 upper case, 1 lower case, 1 numeral, and 1 with special character (e.g. !?#). Old password cannot be used as per our password policy.
+
+## 5. Other Issues
+
+### My account is locked, what can I do?
+Please ensure that you have your SOE email work station with you with access to your SOE email account. After which, proceed to reset your password, the system will send a 6 digit token to your SOE email. 
+
+At this point, do not kill your mobile app else you wont be able to continue with the Reset Password process. Then, key in the 6 digit token to the first field and subsequently your new password. Old password cannot be used as per our password policy.
+
+### The app locked me out for 10 minutes, and I keep getting "login after 10 minutes later" message, what can I do?
+You may have entered the wrong password multiple times. Please wait after 10 minutes and try again. If you forget your password, proceed to reset your password.
+
+Please ensure that you have your SOE email work station with you with access to your SOE email account. 
+
+Go to Sign In view and tap on "Forgot Password".
+
+**Step 1:**
+Enter your work email.
+
+A one time token will be sent to your work email. 
+
+**Step 2:**
+Check your email and enter the token. 
+
+You will then need to enter a new password. The password has to be minimum 12 alphanumeric, with at least 1 upper case, 1 lower case, 1 numeral, and 1 with special character (e.g. *!?#). Old password cannot be used as per our password policy.
+
