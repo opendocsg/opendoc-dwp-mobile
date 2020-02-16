@@ -1,5 +1,7 @@
 # Resource
 
+Resource module is available for agencies who have subscribed to the Resource Booking System from Standard Products. If your agency is interested, please head to digitalworkplace.gov.sg (Intranet link) to contact the respective product manager.
+
 ## 1. Book room
 ### How do I book a room?
 Tapping on the blue arrow button will bring up a menu of the list of things you can do.
