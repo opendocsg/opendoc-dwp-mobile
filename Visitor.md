@@ -1,5 +1,5 @@
 # Visitor
-
+Visitor module is available for agencies who have subscribed to the Visitor Management System from Standard Products. If your agency is interested, please head to digitalworkplace.gov.sg (Intranet link) to contact the respective product manager.
 ## 1. Register visitor
 
 ### How do I register visitors?
