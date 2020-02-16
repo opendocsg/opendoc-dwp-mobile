@@ -20,15 +20,15 @@ This function is not available now. The product team for HRKiosk service is work
 No, you cannot withdraw leave application from mobile now. Please access your HR system to perform the withdrawal.
 
 ## 3. About HRKiosk
-## What is HRKiosk?
+### What is HRKiosk?
 HRKiosk is a backend service that interfaces with various HR systems, and enables users to perform HR/Finance related tasks anywhere anytime on DWP Mobile.
 
-## What will happen to My HR Kiosk mobile app?
+### What will happen to My HR Kiosk mobile app?
 The transport claim and leave functionalities on the existing My HR Kiosk mobile app will soon be accessible in DWP Mobile in the second half of year 2019.
 
 This means that you will just need to access the DWP Mobile app for all available work functions on mobile.
 
-## Do my agency still need to subscribe to HRKiosk?
+### Do my agency still need to subscribe to HRKiosk?
 Yes, agencies who are on ACE or standalone HR systems will need to subscribe to HRKiosk in order for the mobile functionalities to be available on DWP Mobile. For more clarification, please head to digitalworkplace.gov.sg (Intranet link) to contact the respective product manager.
 
 
