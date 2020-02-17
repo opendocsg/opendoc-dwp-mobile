@@ -11,10 +11,14 @@ If no, please connect to an active internet connection as the transport claim re
 If yes, please go to Settings and Send Feedback to us. Please describe the problems you faced, and provide us with details of your claim (claim submission date, details of trips etc.)
 
 ## 2. View submitted claims
+## Claim status shows "Failed"
+There is a remarks field in the claim submission details, it should detail why the claim have failed. If not, please login to your backend HR system to view the failed claim, the reason why the claim has failed will be there. Please note that any submission from the app is sync back to your backend HR system and any business/policy logic that your agency holds still applies. This app is not a direct replacement of your backend HR system.
+
+## 3. Withdraw claims
 ### Can I withdraw submitted transport claim?
 No, you cannot withdraw submitted transport claim from mobile now. Please access your HR system to perform the withdrawal.
 
-## 3. About HRKiosk
+## 4. About HRKiosk
 
 ### What is HRKiosk?
 HRKiosk is a backend service that interfaces with various HR systems, and enables users to perform HR/Finance related tasks anywhere anytime on DWP Mobile.
