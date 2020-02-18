@@ -8,6 +8,7 @@ The DORSCON level has been raised to Orange. According to MOH advisory, it is re
 It is mandatory to take temperature twice a day, including weekends. In order to keep everyone safe, we will require your cooperation to do the declaration on time, so that the necessary intervention can be put in place. Hence, backdating of temperature declaration will not be allowed.
 
 Morning Declaration    : 7.00am – 11.59am
+
 Afternoon Declaration : 12.00pm – 5.00pm
 
 ### Do I need to declare my temperature reading if I am on leave?
