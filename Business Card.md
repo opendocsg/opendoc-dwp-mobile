@@ -26,6 +26,8 @@ Interestingly, we've also seen some users who use the personalised QR code image
 
 ### How to save contact if I'm using Android phone?
 
+![](/assets/savebizcard_android.jpg)
+
 ### I'm using a third party QR code scanner, and I'm not able to save contact.
 If you are using a third party QR code scanner, we noticed that some third party app is not able to open downloaded files. Please open the URL link in the phone's native browser or Chrome browser instead.
 
