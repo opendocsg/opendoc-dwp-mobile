@@ -22,6 +22,8 @@ Interestingly, we've also seen some users who use the personalised QR code image
 ## 3. Save contact
 ### How to save contact if I'm using iOS phone?
 
+![](/assets/savebizcard_ios.jpg)
+
 ### How to save contact if I'm using Android phone?
 
 ### I'm using a third party QR code scanner, and I'm not able to save contact.
