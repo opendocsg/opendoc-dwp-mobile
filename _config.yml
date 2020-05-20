@@ -15,7 +15,7 @@ styling_options:
   primary_brand_color: "#376eee"
   logo_path: /assets/logo.png
   opendoc_logo_path: /assets/images/logo-full.png
-  feedback_url: https://form.gov.sg/5e4648c2b313010011416354
+  feedback_url: 
   logo_url: /
 hide_toolbar:
   sidebar: false
