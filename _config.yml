@@ -15,7 +15,7 @@ styling_options:
   primary_brand_color: "#376eee"
   logo_path: /assets/logo.png
   opendoc_logo_path: /assets/images/logo-full.png
-  feedback_url: ""
+  feedback_url: 
   logo_url: /
 hide_toolbar:
   sidebar: false
