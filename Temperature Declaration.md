@@ -2,7 +2,7 @@
 
 ## 1. About Temperature Declaration
 ### Why do I need to declare my temperature reading?
-The DORSCON level has been raised to Orange. According to MOH advisory, it is recommended to monitor the health of staff by taking temperature twice daily to safe-guard the well-being of all staff and partners.
+According to MOH advisory, it is recommended to monitor the health of staff by taking temperature twice daily to safe-guard the well-being of all staff and partners.
 
 ### When do I make my temperature declaration?
 Please refer to your agency’s temperature taking guidelines. 
