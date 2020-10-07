@@ -23,7 +23,7 @@ PM declaration can be made from 12:00PM (noon) - 11:59PM.
 Reports will be sent to your agency POCs. If you declare a temperature above 38 degrees celsius, your agency POCs will be notified and may contact you for the necessary follow-up.
 
 
-If you have a temperature above 38 degrees celsius and/or have respiratory symptoms like cough, sore throat, runny nose or shortness of breath, your agency POCs will be notified and may contact you for the necessary follow-up.
+If you have a temperature above 37.5 degrees celsius and/or have respiratory symptoms like cough, sore throat, runny nose or shortness of breath, your agency POCs will be notified and may contact you for the necessary follow-up.
 
 ## 2. Who needs to declare their temperature?
 
@@ -31,7 +31,7 @@ If you have a temperature above 38 degrees celsius and/or have respiratory sympt
 Yes, your well-being is important and you are required to declare your temperature too. If you do not have access to DWP mobile, please check with your agency POCs. There should be alternative channels for you to do the temperature declaration.
 
 ## 3. What should I do if I have a fever?
-If you have a fever of 38 degree celsius and above, including over weekends, please see a doctor and your POC immediately. If you are in the office please put on a face mask and follow the instructions from the agency POC.
+If you have a fever of 37.5 degree celsius and above, including over weekends, please see a doctor and your POC immediately. If you are in the office please put on a face mask and follow the instructions from the agency POC.
 
 Continue to do your temperature declarations on the DWP app.
 
