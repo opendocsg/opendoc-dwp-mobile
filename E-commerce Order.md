@@ -171,7 +171,7 @@ The routing options affect the post-checkout process of your order.
 
 **Auto** - The order will be sent to the approving officer in your agency approval settings. This happens immediately after checkout.
 
-**Manual** - The order will be sent to you via DWP mobile. You will need to [send the order to your approving officer](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-send-my-order-to-the-approving-officer-for-approval) manually in the details page.
+**Manual** - The order will be sent to you via DWP mobile. You will need to [send the order to your approving officer](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-send-my-order-to-the-approving-officer-for-approval) manually in the Details page.
 
 ### Can I change my agency approval settings after the initial setup?
 Yes, you can change your approval settings in the E-commerce Order mini-app.
