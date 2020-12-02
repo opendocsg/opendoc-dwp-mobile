@@ -24,7 +24,7 @@ Due to technical constraints, we cannot hide the approval mini-app from non-AOs.
 
 ## 4. View orders
 * Where can I view my order statuses?
-* What are the different order status in the mini-app?
+* What are the different order statuses in the mini-app?
 * There were some changes to my order after checkout. How would these changes appear in the mini-app?
 * What is the difference between return and refund?
 * Where can I find information about shipping in the mini-app?
