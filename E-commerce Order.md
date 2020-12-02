@@ -3,7 +3,7 @@ This initiative is currently in its **pilot phase**. Only agencies in the pilot 
 
 If you are a **buyer** using the **E-commerce Order mini-app**, refer to sections **2 to 8**.
 
-If you are an approving officer using the** E-commerce Order Approval** mini-app, refer to **section 9**.
+If you are an approving officer using the **E-commerce Order Approval** mini-app, refer to **section 9**.
 
 ## 1. About this initiative
 * [Which are the participating e-commerce stores?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#which-are-the-participating-e-commerce-stores)
@@ -390,6 +390,10 @@ From the E-commerce Order Approval mini-app:
 Orders will have the **Cancelled** status if buyers or e-commerce stores cancelled the order. In this case, the e-commerce store will not process the order, even if it was previously approved.
 
 Orders will have the **Expired** status if it was not approved/rejected within a stipulated time. The time is determined by the respective e-commerce store.
+
+## Having issues?
+
+* [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
 
 
 
