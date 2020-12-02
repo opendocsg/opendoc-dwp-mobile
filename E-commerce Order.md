@@ -144,12 +144,14 @@ Some buyers may be able to procure for multiple agencies. This happens if they h
 **Option 1. After you set up corporate billing for the first time**
 
 In the corporate billing setup success page:
-1. Tap on the  ‘Proceed to setup’ button. 
+1. Tap on the **Proceed to setup** button. 
 2. Select your approving officer and frequently used cost centre.
 3. Choose the routing option you prefer.
-4. Tap ‘Submit’. Your preferences will be updated.
+4. Tap **Submit**. Your preferences will be updated.
 
-If you do not see a ‘Proceed to setup’ button, it means that you have previously set the approval settings for the agency. If you want to change your agency approval settings, please refer to option 2.
+If you do not see a **Proceed to setup** button, it means that you have previously set the approval settings for the agency. 
+
+If you want to change your agency approval settings, please refer to option 2.
 
 **Option 2. Any time, at the Settings page**
 
