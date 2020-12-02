@@ -1,49 +1,39 @@
 # E-commerce Order
-If you are a buyer using the E-commerce Order mini-app, refer to sections 2 to 7.
-If you are an approving officer using the E-commerce Order Approval mini-app, refer to section 8.
+This initiative is currently in its **pilot phase**. Only selected agencies are onboard. 
+
+If you are a **buyer** using the **E-commerce Order mini-app**, refer to sections **2 to 8**.
+
+If you are an approving officer using the** E-commerce Order Approval** mini-app, refer to **section 9**.
 
 ## 1. About this initiative
-* Who are the participating e-commerce stores?
-* Where can I find the policy details for this initiative?
-* What is the “E-commerce Order Approval” mini-app for?
+* [Which are the participating e-commerce stores?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#which-are-the-participating-e-commerce-stores)
+* [Where can I find the policy details for this initiative?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-find-the-policy-details-for-this-initiative)
+* [What is the “E-commerce Order Approval” mini-app for?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#who-are-the-participating-e-commerce-stores)
 
-### I do not see this mini-app in the app.
-This initiative is currently in its pilot phase. Thus, only a few agencies will be onboard.
+### Which are the participating e-commerce stores?
+Currently, Eezee and Shopee are the pilot stores for the initiative. More stores will be onboarded soon. 
 
-### Who are the participating e-commerce stores?
-* Eezee
-* Shopee
-* ... and many more to come!
-
-Your agency may not have subscribed to all of them. Please approach your agency representative for more information.
+Your agency may not have subscribed to all the stores. Please approach your agency representative for more information.
 
 ### Where can I find the policy details for this initiative?
 Please refer to the Playbook or approach your agency representative for more information.
 
-### What is the “E-commerce Order Approval” mini-app for?
+### What is the E-commerce Order Approval mini-app for?
 This mini-app is for Small Value Purchase approving officers (AOs). In this mini-app, they can approve/reject pending e-commerce order requests. They can also see their SVP approval history.
 
 Due to technical constraints, we cannot hide the approval mini-app from non-AOs. If you are not an AO, please ignore this mini-app.
 
 ## 2. Set up corporate billing
 
-* [Can I set up corporate billing on any e-commerce store?](https://)
-* [What do I need to set up corporate billing?](https://)
-* [How do I set up corporate billing?](https://)
-* [Which email address do I use to sign up for an account with e-commerce?](https://)
-* [Why do I need to download the DWP Mobile app to set up corporate billing?](https://)
-* [Which email address do I enter at the corporate billing setup page?](https://)
-* [I could not set up corporate billing with my work email. Why?](https://)
+* [Can I set up corporate billing on any e-commerce store?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-set-up-corporate-billing-on-any-e-commerce-store)
+* [Which email address do I use to sign up for an account with e-commerce?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#which-email-address-do-i-use-to-sign-up-for-an-account-with-e-commerce)
+* [How do I set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-corporate-billing)
+* [Why do I need to download the DWP Mobile app to set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html)
+* [Which email address do I enter at the corporate billing setup page?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html)
+* [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html)
 
 ### Can I set up corporate billing on any e-commerce store?
 Nope, you can only set up corporate billing on participating e-commerce stores that your agency has subscribed to.
-
-### What do I need to set up corporate billing?
-You would need:
-* A DWP mobile app account, and
-* An account on the participating e-commerce store.
-
-The e-commerce account can be based on your personal email/phone number or a separate corporate account. Please check the e-commerce’s corporate billing setup guide for more information.
 
 ### Which email address do I use to sign up for an account with e-commerce?
 It depends on the e-commerce mall you are signing up for. 
@@ -53,6 +43,12 @@ Some malls allow their users to use their personal account for corporate purchas
 Please check the e-commerce’s corporate billing setup guide for more information.
 
 ### How do I set up corporate billing?
+Before you start, make sure you have:
+* A DWP mobile app account, and
+* An account on the participating e-commerce store.
+
+The e-commerce account can be based on your personal email/phone number or a separate corporate account. Please check the e-commerce’s corporate billing setup guide for more information.
+
 **Part 1: Enter work email in e-commerce store**
 1. Find the corporate billing setup option in the mall. You can refer to the mall setup guide.
 2. Enter your **work email**, i.e. Singapore Public Service official email address. It usually ends with .gov.sg, but may differ for some agencies.
