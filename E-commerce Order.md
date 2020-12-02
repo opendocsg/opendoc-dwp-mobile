@@ -187,21 +187,21 @@ Nope. Approval settings are tied to your agency, and not to the corporate billin
 
 
 ## 4. Checkout with corporate billing
-* How do I check out with corporate billing?
-* What happens after checkout? Do I need to do anything?
-* How do I send my order to the approving officer for approval?
-* How do I change the cost centre for the order?
-* How do I send the order to a different approving officer?
-* How does the order expiry time affect me in procurement?
-* Where can I see the expiry time for my order?
-* What is the exact expiry duration for carts (e.g. X mins)?
+* [How do I check out with corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-check-out-with-corporate-billing)
+* [What happens after checkout? Do I need to do anything?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-happens-after-checkout-do-i-need-to-do-anything)
+* [How do I send my order to the approving officer for approval?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-send-my-order-to-the-approving-officer-for-approval)
+* [How do I change the cost centre for the order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-change-the-cost-centre-for-the-order)
+* [How do I send the order to a different approving officer?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-send-the-order-to-a-different-approving-officer)
+* [How does the order expiry time affect me in procurement?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-does-the-order-expiry-time-affect-me-in-procurement)
+* [Where can I see the expiry time for my order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-see-the-expiry-time-for-my-order)
+* [What is the exact expiry duration for carts (e.g. X mins)?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-is-the-exact-expiry-duration-for-carts-eg-x-mins)
 
 ### How do I check out with corporate billing?
-For a smoother checkout process, set up corporate billing first.
+Make sure that you have already [set up corporate billing](https://) for smoother checkout process.
 
 1. During checkout, select corporate billing as the payment option.
 2. Enter the reason for purchase.
-3. Place the order. You’re done!
+3. Place the order. That's all!
 
 ### What happens after checkout? Do I need to do anything?
 After checkout, you should receive a push notification ([Not receiving any push notifications](https://)?). 
@@ -312,7 +312,7 @@ From the E-commerce Order mini-app:
 3. Tap **Amend approval**.
 4. Tap **Proceed to amend**. The order status will be changed to Pending Submission.
 5. Make changes to the cost centre and/or approving officer.
-6. Tap **Send for approval**. The order status will be changed to Pending Approval. Done!
+6. Tap **Send for approval**. The order status will be changed to Pending Approval.
 
 ### Can I change item quantities and delivery addresses on the mini-app?
 You can only change item quantities and delivery addresses in the e-commerce store. The changes will be reflected in the mini-app.
