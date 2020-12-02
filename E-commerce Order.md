@@ -197,14 +197,14 @@ Nope. Approval settings are tied to your agency, and not to the corporate billin
 * [What is the exact expiry duration for carts (e.g. X mins)?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-is-the-exact-expiry-duration-for-carts-eg-x-mins)
 
 ### How do I check out with corporate billing?
-Make sure that you have already [set up corporate billing](https://) for smoother checkout process.
+Make sure that you have already [set up corporate billing](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-corporate-billing) for smoother checkout process.
 
 1. During checkout, select corporate billing as the payment option.
 2. Enter the reason for purchase.
 3. Place the order. That's all!
 
 ### What happens after checkout? Do I need to do anything?
-After checkout, you should receive a push notification ([Not receiving any push notifications](https://)?). 
+After checkout, you should receive a push notification ([Not receiving any push notifications?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-did-not-receive-a-push-notification-that-asks-me-to-authenticate-the-corporate-billing-request). 
 
 If you did not receive a push notification, you can go to the E-commerce order mini-app to check your order status.
 
