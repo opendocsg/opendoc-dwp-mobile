@@ -229,7 +229,7 @@ Buyers can change the cost centre in the order’s details page in E-commerce Or
 Buyers can amend the order approval details to send the order to a different approver.
 
 ### How do I ensure that the order is automatically sent to the AO for my next purchase?
-You can turn on Auto-send for Approval in the agency approval settings page.
+You can [turn on **Auto-send for Approval**](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-change-my-agency-approval-settings-after-the-initial-setup) in the agency approval settings page.
 
 ### How does the order expiry time affect me in procurement?
 From the point of checkout to expiry time, the stocks of the items are being reserved for you. If the order is not approved within the stipulated time, the sellers will release the stocks. 
@@ -237,7 +237,7 @@ From the point of checkout to expiry time, the stocks of the items are being res
 To buy the same goods, you will need to check out with corporate billing again.
 
 ### Where can I see the expiry time for my order?
-In the E-commerce order mini-app, you can see the expiry time in the Orders page as well as the details page for the order.
+In the E-commerce order mini-app, you can see the expiry time in the **Orders** page as well as the **Details** page for the order.
 
 ### What is the exact expiry duration for carts (e.g. X mins)?
 The e-commerce store determines the expiry duration. Please approach the store to know the exact duration.
