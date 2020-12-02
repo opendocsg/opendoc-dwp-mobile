@@ -368,17 +368,17 @@ These FAQs apply for approving officers that use the **E-commerce Order Approval
 
 ### How do I approve an order?
 From the E-commerce Order Approval mini-app:
-* In the Pending tab, tap on the order you want to approve.
-* Scroll down to the ‘For Approving Officer’ section.
-* (Optional) Enter your remarks.
-* Tap ‘Approve’.
+1. In the Pending tab, tap on the order you want to approve.
+2. Scroll down to the ‘For Approving Officer’ section.
+3. (Optional) Enter your remarks.
+4. Tap ‘Approve’.
 
 ### How do I reject an order?
 From the E-commerce Order Approval mini-app:
-* In the Pending tab, tap on the order you want to reject.
-* Scroll down to the ‘For Approving Officer’ section.
-* Enter your remarks.
-* Tap 'Reject'.
+1. In the Pending tab, tap on the order you want to reject.
+2. Scroll down to the ‘For Approving Officer’ section.
+3. Enter your remarks.
+4. Tap 'Reject'.
 
 ### Why do some orders have a ‘Cancelled’ or ‘Expired’ status in the History tab?
 Orders will have the ‘Cancelled’ status if buyers or e-commerce stores cancelled the order. In this case, the e-commerce store will not process the order, even if it was previously approved.
