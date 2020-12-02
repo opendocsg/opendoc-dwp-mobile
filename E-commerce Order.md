@@ -248,7 +248,7 @@ The e-commerce store determines the expiry duration. Please approach the store t
 * [What are the different order statuses in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-are-the-different-order-statuses-in-the-mini-app)
 * [There were some changes to my order after checkout. How would these changes appear in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#there-were-some-changes-to-my-order-after-checkout-how-would-these-changes-appear-in-the-mini-app)
 * [What is the difference between return and refund?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-is-the-difference-between-return-and-refund)
-* [Where can I find information about shipping in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-find-information-about-shipping-in-the-mini-app")
+* [Where can I find information about shipping in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-find-information-about-shipping-in-the-mini-app)
 
 ### Where can I view my order statuses?
 From the E-commerce Order mini-app, go to the **Orders** tab to see the list of orders you made. The order statuses are displayed on the right. You can tap in to know more about the status.
@@ -352,7 +352,7 @@ From the E-commerce Order mini-app:
 
 If the delete is successful, you will see a success page with the title **Corporate billing deleted**.
 
-You can also delete corporate billing at the particular e-commerce mall. To do so, please refer to the mall’s corporate billing guide.
+You can also delete corporate billing at the particular e-commerce store. To do so, please refer to the store’s corporate billing guide.
 
 ### What will happen to my e-commerce corporate account when I delete corporate billing?
 Your corporate account will still be there in the e-commerce store, it will not be deleted. The deletion is for the **corporate billing** and not the e-commerce account itself.
