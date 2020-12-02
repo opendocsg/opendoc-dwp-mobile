@@ -7,6 +7,9 @@ If you are an approving officer using the E-commerce Order Approval mini-app, re
 * Where can I find the policy details for this initiative?
 * What is the “E-commerce Order Approval” mini-app for?
 
+### I do not see this mini-app in the app.
+This initiative is currently in its pilot phase. Thus, only a few agencies will be onboard.
+
 ### Who are the participating e-commerce stores?
 * Eezee
 * Shopee
@@ -223,10 +226,10 @@ You can only change item quantities and delivery addresses in the e-commerce sto
 You can cancel orders through the E-commerce Order mini-app or the e-commerce store.
 
 From the E-commerce Order mini-app:
-* In the Orders tab, tap on the order you want to cancel. 
-* Scroll down to the bottom of the details page.
-* Tap ‘Cancel order’.
-* Tap ‘Yes, cancel’.
+1. In the Orders tab, tap on the order you want to cancel. 
+2. Scroll down to the bottom of the details page.
+3. Tap ‘Cancel order’.
+4. Tap ‘Yes, cancel’.
 
 If order cancellation is successful, you will see a success page with the title ‘Order cancelled’.
 
@@ -244,9 +247,9 @@ For approved orders, please go to the e-commerce store to cancel them.e-commerce
 
 ### How do I delete corporate billing for an e-commerce account?
 From the E-commerce Order mini-app:
-* Go to Accounts. Tap on the details of the corporate billing you want to delete.
-* Tap ‘Delete corporate billing’.
-* Tap ‘Delete’ to confirm. 
+1. Go to Accounts. Tap on the details of the corporate billing you want to delete.
+2. Tap ‘Delete corporate billing’.
+3. Tap ‘Delete’ to confirm. 
 
 If the delete is successful, you will see a success page with the title ‘Corporate billing deleted’.
 
@@ -264,9 +267,9 @@ Yes you can, as long as your work email is not tied to an existing e-commerce ac
 ## 8. For approving officers
 These FAQs apply for approving officers that use the E-commerce Order Approval mini-app.
 
-* How do I approve an order?
-* How do I reject an order?
-* Why do some orders have a ‘Cancelled’ or ‘Expired’ status in the History tab?
+* [How do I approve an order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-approve-an-order)
+* [How do I reject an order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-reject-an-order)
+* [Why do some orders have a ‘Cancelled’ or ‘Expired’ status in the History tab?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#why-do-some-orders-have-a-cancelled-or-expired-status-in-the-history-tab)
 
 ### How do I approve an order?
 From the E-commerce Order Approval mini-app:
