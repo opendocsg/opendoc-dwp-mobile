@@ -257,14 +257,19 @@ The order statuses refer mostly to the approval aspect (e.g. if the order was ap
 
 ### What are the different order statuses in the mini-app?
 
-Buyer = The officer who checked out a cart with corporate billing.
-AO = Approving Officer, the officer who is approving the SVP purchase.
+Refer to the table below for the different statuses.
+
+Legend:
+
+**Buyer** - The officer who checked out a cart with corporate billing.
+
+**AO** - Approving Officer, the officer who is approving the SVP purchase.
 
 | Status | What it means | Action needed by |
 | -------- | -------- | -------- |
 | Pending Submission | Cart is pending submission to AO for approval. Buyer needs to confirm the cost centre and AO, and send the cart to the AO for approval via the mini-app.| Buyer|
 | Pending Approval | Cart has been sent to AO and is pending AO’s approval. | AO |
-| Approved | AO has approved the orderThe e-commerce store will proceed to process the order.| - |
+| Approved | AO has approved the order. The e-commerce store will proceed to process the order.| - |
 | Rejected | AO has rejected the order.  The e-commerce store will not process the order. | - |
 | Cancelled | Either the buyer or e-commerce store has cancelled orders of all items in the cart. The e-commerce store will not process the order. | - |
 | Expired | The order has expired and will not be processed by the e-commerce store. The buyer would have to check out from the store again to procure the items. | Buyer (Depends) |
