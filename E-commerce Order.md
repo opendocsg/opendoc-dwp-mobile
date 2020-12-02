@@ -250,6 +250,9 @@ To buy the same goods, you will need to check out with corporate billing again.
 ### Where can I see the expiry time for my order?
 In the E-commerce order mini-app, you can see the expiry time in the **Orders** page as well as the **Details** page for the order.
 
+![](/assets/img_svp_6.png)
+
+
 ### What is the exact expiry duration for carts (e.g. X mins)?
 The e-commerce store determines the expiry duration. Please approach the store to know the exact duration.
 
