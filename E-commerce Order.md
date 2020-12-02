@@ -251,19 +251,13 @@ The e-commerce store determines the expiry duration. Please approach the store t
 * [Where can I find information about shipping in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-find-information-about-shipping-in-the-mini-app")
 
 ### Where can I view my order statuses?
-From the E-commerce Order mini-app, go to the Orders tab to see the list of orders you made. The order statuses are displayed on the right. You can tap in to know more about the status.
+From the E-commerce Order mini-app, go to the **Orders** tab to see the list of orders you made. The order statuses are displayed on the right. You can tap in to know more about the status.
 
 The order statuses refer mostly to the approval aspect (e.g. if the order was approved or rejected). For shipping/delivery statuses and time, please check with the e-commerce store.
 
 ### What are the different order statuses in the mini-app?
 
-Refer to the table below for the different statuses.
-
-Legend:
-
-**Buyer** - The officer who checked out a cart with corporate billing.
-
-**AO** - Approving Officer, the officer who is approving the SVP purchase.
+Refer to the table below.
 
 | Status | What it means | Action needed by |
 | -------- | -------- | -------- |
@@ -273,6 +267,10 @@ Legend:
 | Rejected | AO has rejected the order.  The e-commerce store will not process the order. | - |
 | Cancelled | Either the buyer or e-commerce store has cancelled orders of all items in the cart. The e-commerce store will not process the order. | - |
 | Expired | The order has expired and will not be processed by the e-commerce store. The buyer would have to check out from the store again to procure the items. | Buyer (Depends) |
+
+Terminology:
+* **Buyer** - The officer who checked out a cart with corporate billing.
+* **AO** - Approving Officer, the officer who is approving the SVP purchase.
 
 ### There were some changes to my order after checkout. How would these changes appear in the mini-app?
 The changes will be reflected in the **Details** page of the order.
