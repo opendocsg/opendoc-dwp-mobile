@@ -208,15 +208,17 @@ You can only amend approval details on orders using the mini-app if the order st
 
 ### How do I amend my order approval details?
 From the E-commerce Order mini-app:
-* In the Orders tab, tap on the order you want to amend. 
-* Scroll down to the bottom.
-* Tap ‘Amend approval’.
-* Tap ‘Proceed to amend’. The order status will be changed to ‘Pending Submission’.
-* Make changes to the cost centre and/or approving officer.
-* Tap ‘Send for approval’. The order status will be changed to ‘Pending Approval’.
+1. In the **Orders** tab, tap on the order you want to amend. 
+2. Scroll down to the bottom.
+3. Tap ‘**Amend approval**’.
+4. Tap ‘**Proceed to amend**’. The order status will be changed to ‘Pending Submission’.
+5. Make changes to the cost centre and/or approving officer.
+6. Tap '**Send for approval**'. The order status will be changed to ‘Pending Approval’.
 
 ### Can I change item quantities and delivery addresses on the mini-app?
-You can only change item quantities and delivery addresses in the e-commerce store. The changes will be reflected in the mini-app.
+You can only change item quantities and delivery addresses in the e-commerce store. 
+
+The changes will be reflected in the mini-app.
 
 ## 6. Cancel order
 * How do I cancel my order?
@@ -238,7 +240,7 @@ You can only cancel orders using the mini-app if the order status is:
 * Pending Submission, or
 * Pending Approval.
 
-For approved orders, please go to the e-commerce store to cancel them.e-commerce store.
+For approved orders, please cancel them at the e-commerce store. Cancellations are subject to the store's terms and conditions.
 
 ## 7. Delete corporate billing
 * How do I delete corporate billing for an e-commerce account?
@@ -247,16 +249,16 @@ For approved orders, please go to the e-commerce store to cancel them.e-commerce
 
 ### How do I delete corporate billing for an e-commerce account?
 From the E-commerce Order mini-app:
-1. Go to Accounts. Tap on the details of the corporate billing you want to delete.
-2. Tap ‘Delete corporate billing’.
-3. Tap ‘Delete’ to confirm. 
+1. Go to **Accounts**. Tap on the details of the corporate billing you want to delete.
+2. Tap ‘**Delete corporate billing**’.
+3. Tap ‘**Delete**’ to confirm. 
 
 If the delete is successful, you will see a success page with the title ‘Corporate billing deleted’.
 
 You can also delete corporate billing at the particular e-commerce mall. To do so, please refer to the mall’s corporate billing guide.
 
 ### What will happen to my e-commerce corporate account when I delete corporate billing?
-Your corporate account will still be there in the e-commerce store, it will not be deleted. The deletion is for the corporate billing and not the e-commerce account itself.
+Your corporate account will still be there in the e-commerce store, it will not be deleted. The deletion is for the **corporate billing** and not the e-commerce account itself.
 
 However, you will not be able to check out with corporate billing with that account. To do so, you will have to set up corporate billing again.
 
@@ -265,7 +267,7 @@ Yes you can, as long as your work email is not tied to an existing e-commerce ac
 
 
 ## 8. For approving officers
-These FAQs apply for approving officers that use the E-commerce Order Approval mini-app.
+These FAQs apply for approving officers that use the **E-commerce Order Approval** mini-app.
 
 * [How do I approve an order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-approve-an-order)
 * [How do I reject an order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-reject-an-order)
