@@ -217,19 +217,19 @@ Refer to the table below to see the action(s) needed:
 
 ### How do I send my order to the approving officer for approval?
 From the E-commerce Order mini-app:
-1. In the Orders tab, tap on the order you want to send for approval. 
+1. In the **Orders** tab, tap on the order you want to send for approval. 
 2. Scroll down to the bottom.
 3. Check and/or select the cost centre and approving officer.
-4. Tap ‘Send for approval’. The order status will be changed to ‘Pending Approval’.
+4. Tap **Send for approval**. The order status will be changed to Pending Approval.
 
 ### How do I change the cost centre for the order?
-Buyers can change the cost centre in the order’s details page in E-commerce Order mini-app.
+Buyers can change the cost centre in the order’s [**Details** page](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-amend-my-order-approval-details) in E-commerce Order mini-app.
 
 ### How do I send the order to a different approving officer?
-Buyers can amend the order approval details to send the order to a different approver.
+Buyers can [amend the order approval details](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-amend-my-order-approval-details) to send the order to a different approver.
 
 ### How do I ensure that the order is automatically sent to the AO for my next purchase?
-You can [turn on **Auto-send for Approval**](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-change-my-agency-approval-settings-after-the-initial-setup) in the agency approval settings page.
+You can turn on **Auto-send for Approval** in the [agency approval settings page](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-change-my-agency-approval-settings-after-the-initial-setup).
 
 ### How does the order expiry time affect me in procurement?
 From the point of checkout to expiry time, the stocks of the items are being reserved for you. If the order is not approved within the stipulated time, the sellers will release the stocks. 
