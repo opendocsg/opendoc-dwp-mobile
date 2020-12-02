@@ -130,7 +130,7 @@ Approval settings are tied to the agency and not the corporate account itself.
 
 Some buyers may be able to procure for multiple agencies. This happens if they hold positions in multiple agencies. In that case, there will be separate approval settings for each agency.
 
-![How settings look like if you have multiple agencies](/assets/img_svp_2.png)
+![How settings look like if you have multiple agencies](/assets/img_svp_5.png)
 
 * [How do I set up my agency approval settings?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-my-agency-approval-settings)
 * [Do I have to set up my agency approval settings every time I set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#do-i-have-to-set-up-my-agency-approval-settings-every-time-i-set-up-corporate-billing)
