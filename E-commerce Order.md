@@ -224,7 +224,7 @@ Refer to the table below to see the action(s) needed:
 | Push notification received | Order status in E-commerce order mini-app | What it means | What to do |
 | -------- | -------- | -------- | -------- |
 | Your order has been sent to *[Approving officer (AO) name]* for approval. Cost centre: *[Cost Centre]*.     | Pending Approval  | Your order has been sent to AO for approval.   | Wait for AO to act on your order.|
-| Action needed: Send your purchase to your approving officer using DWP Mobile before it expires. | Pending confirmation | Your order has NOT been sent to the AO yet. | [Send the order to the AO approval](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-send-my-order-to-the-approving-officer-for-approval). |
+| Action needed: Send your purchase to your approving officer using DWP Mobile before it expires. | Pending confirmation | Your order has NOT been sent to the AO yet. | [Send the order to the AO](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-send-my-order-to-the-approving-officer-for-approval) for approval. |
 
 ### How do I send my order to the approving officer for approval?
 From the E-commerce Order mini-app:
