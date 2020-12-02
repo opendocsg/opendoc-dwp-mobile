@@ -7,6 +7,9 @@ If you are an approving officer using the E-commerce Order Approval mini-app, re
 * Where can I find the policy details for this initiative?
 * What is the “E-commerce Order Approval” mini-app for?
 
+### I do not see this mini-app in the app.
+This initiative is currently in its pilot phase. Thus, only a few agencies will be onboard.
+
 ### Who are the participating e-commerce stores?
 * Eezee
 * Shopee
@@ -24,13 +27,13 @@ Due to technical constraints, we cannot hide the approval mini-app from non-AOs.
 
 ## 2. Set up corporate billing
 
-* Can I set up corporate billing on any e-commerce store?
-* What do I need to set up corporate billing?
-* How do I set up corporate billing?
-* Which email address do I use to sign up for an account with e-commerce?
-* Why do I need to download the DWP Mobile app to set up corporate billing?
-* Which email address do I enter at the corporate billing setup page?
-* I could not set up corporate billing with my work email. Why?
+* [Can I set up corporate billing on any e-commerce store?](https://)
+* [What do I need to set up corporate billing?](https://)
+* [How do I set up corporate billing?](https://)
+* [Which email address do I use to sign up for an account with e-commerce?](https://)
+* [Why do I need to download the DWP Mobile app to set up corporate billing?](https://)
+* [Which email address do I enter at the corporate billing setup page?](https://)
+* [I could not set up corporate billing with my work email. Why?](https://)
 
 ### Can I set up corporate billing on any e-commerce store?
 Nope, you can only set up corporate billing on participating e-commerce stores that your agency has subscribed to.
@@ -48,6 +51,42 @@ It depends on the e-commerce mall you are signing up for.
 Some malls allow their users to use their personal account for corporate purchases. Others may need users to sign up for a separate corporate account.
 
 Please check the e-commerce’s corporate billing setup guide for more information.
+
+### How do I set up corporate billing?
+**Part 1: Enter work email in e-commerce store**
+1. Find the corporate billing setup option in the mall. You can refer to the mall setup guide.
+2. Enter your **work email**, i.e. Singapore Public Service official email address. It usually ends with .gov.sg, but may differ for some agencies.
+3. You will see the picture below:
+
+**Part 2: Authenticate using DWP Mobile**
+
+Check if you have received a push notification on your mobile telling you to authenticate the corporate billing request.
+
+If you **received** a push notification:
+1. Tap on the push notification.
+2. Tap ‘Yes’. When you see a success page, it means your corporate billing account has been added successfully. 
+3. (If you have not set up before) Tap “Proceed to setup” to set your agency approval settings.
+
+If you **did not receive** a push notification:
+1. Open the E-commerce order mini-app.
+2. Tap on ‘Accounts’.
+3. Tap on the corporate billing request.
+4. Tap ‘Yes’. When you see a success page, it means your corporate billing account has been added successfully. 
+5. (If you have not set up before) Tap ‘Proceed to setup’ to set up your agency approval settings.
+
+The corporate billing request **expires in 2 min**. If it does, you will need to set up corporate billing again at the e-commerce store.
+
+
+### I could not set up corporate billing with my work email. Why?
+This may happen due to the following reasons:
+
+* It could be a typo for your email. Please check the email entered and try again.
+* Your agency may not have subscribed to this mall. Please check with your agency for more information.
+* There was an issue linking the corporate billing to your e-commerce account or work email. Please contact the e-commerce store or agency helpdesk for help.
+
+### Why do I need to download the DWP Mobile app to set up corporate billing?
+For security reasons, you need to authenticate the corporate billing request using the app. Thank you for helping to keep government services safe and secure!
+
 
 ### I did not receive a push notification that asks me to authenticate the corporate billing request.
 This may have happened because:
@@ -151,7 +190,64 @@ Yes, you can change your approval settings in the E-commerce Order Approval mini
 Nope. Approval settings are tied to your agency, and not to the corporate billing account.
 
 
-## 4. View orders
+## 4. Checkout with corporate billing
+* How do I check out with corporate billing?
+* What happens after checkout? Do I need to do anything?
+* How do I send my order to the approving officer for approval?
+* How do I change the cost centre for the order?
+* How do I send the order to a different approving officer?
+* How does the order expiry time affect me in procurement?
+* Where can I see the expiry time for my order?
+* What is the exact expiry duration for carts (e.g. X mins)?
+
+### How do I check out with corporate billing?
+For a smoother checkout process, set up corporate billing first.
+
+1. During checkout, select corporate billing as the payment option.
+2. Enter the reason for purchase.
+3. Place the order. You’re done!
+
+### What happens after checkout? Do I need to do anything?
+After checkout, you should receive a push notification ([Not receiving any push notifications](https://)?). 
+
+If you did not receive a push notification, you can go to the E-commerce order mini-app to check your order status.
+
+Refer to the table below to see the action(s) needed:
+
+| Push notification received | Order status in E-commerce order mini-app | What it means | What to do |
+| -------- | -------- | -------- | -------- |
+| Your order has been sent to *AO* for approval. Cost centre: *Cost Centre name*.     | Pending Approval  | Your order has been sent to AO for approval.   | Wait for AO to act on your order.|
+| Action needed: Send your purchase to your approving officer using DWP Mobile before it expires. | Pending confirmation | Your order has NOT been sent to the AO yet. | From the E-commerce Order mini-app, go to the order details and send the order for approval. |
+
+### How do I send my order to the approving officer for approval?
+From the E-commerce Order mini-app:
+1. In the Orders tab, tap on the order you want to send for approval. 
+2. Scroll down to the bottom.
+3. Check and/or select the cost centre and approving officer.
+4. Tap ‘Send for approval’. The order status will be changed to ‘Pending Approval’.
+
+### How do I change the cost centre for the order?
+Buyers can change the cost centre in the order’s details page in E-commerce Order mini-app.
+
+### How do I send the order to a different approving officer?
+Buyers can amend the order approval details to send the order to a different approver.
+
+### How do I ensure that the order is automatically sent to the AO for my next purchase?
+You can turn on Auto-send for Approval in the agency approval settings page.
+
+### How does the order expiry time affect me in procurement?
+From the point of checkout to expiry time, the stocks of the items are being reserved for you. If the order is not approved within the stipulated time, the sellers will release the stocks. 
+
+To buy the same goods, you will need to check out with corporate billing again.
+
+### Where can I see the expiry time for my order?
+In the E-commerce order mini-app, you can see the expiry time in the Orders page as well as the details page for the order.
+
+### What is the exact expiry duration for carts (e.g. X mins)?
+The e-commerce store determines the expiry duration. Please approach the store to know the exact duration.
+
+
+## 5. View orders
 * Where can I view my order statuses?
 * What are the different order statuses in the mini-app?
 * There were some changes to my order after checkout. How would these changes appear in the mini-app?
@@ -191,7 +287,7 @@ You can return an item before or after the e-commerce store invoices the agency.
 The mini-app only shows the delivery address. For shipping/delivery statuses and time, please check with the e-commerce store.
 
 
-## 5. Amend order approval details
+## 6. Amend order approval details
 After sending the order for approval, you can change the cost centre and approving officer for the order within a designated period.
 
 * When can I amend order approval details?
@@ -205,17 +301,19 @@ You can only amend approval details on orders using the mini-app if the order st
 
 ### How do I amend my order approval details?
 From the E-commerce Order mini-app:
-* In the Orders tab, tap on the order you want to amend. 
-* Scroll down to the bottom.
-* Tap ‘Amend approval’.
-* Tap ‘Proceed to amend’. The order status will be changed to ‘Pending Submission’.
-* Make changes to the cost centre and/or approving officer.
-* Tap ‘Send for approval’. The order status will be changed to ‘Pending Approval’.
+1. In the **Orders** tab, tap on the order you want to amend. 
+2. Scroll down to the bottom.
+3. Tap ‘**Amend approval**’.
+4. Tap ‘**Proceed to amend**’. The order status will be changed to ‘Pending Submission’.
+5. Make changes to the cost centre and/or approving officer.
+6. Tap '**Send for approval**'. The order status will be changed to ‘Pending Approval’.
 
 ### Can I change item quantities and delivery addresses on the mini-app?
-You can only change item quantities and delivery addresses in the e-commerce store. The changes will be reflected in the mini-app.
+You can only change item quantities and delivery addresses in the e-commerce store. 
 
-## 6. Cancel order
+The changes will be reflected in the mini-app.
+
+## 7. Cancel order
 * How do I cancel my order?
 * I cannot find the ‘Cancel order’ button at the bottom of the order details.
 
@@ -223,10 +321,10 @@ You can only change item quantities and delivery addresses in the e-commerce sto
 You can cancel orders through the E-commerce Order mini-app or the e-commerce store.
 
 From the E-commerce Order mini-app:
-* In the Orders tab, tap on the order you want to cancel. 
-* Scroll down to the bottom of the details page.
-* Tap ‘Cancel order’.
-* Tap ‘Yes, cancel’.
+1. In the Orders tab, tap on the order you want to cancel. 
+2. Scroll down to the bottom of the details page.
+3. Tap ‘Cancel order’.
+4. Tap ‘Yes, cancel’.
 
 If order cancellation is successful, you will see a success page with the title ‘Order cancelled’.
 
@@ -235,25 +333,25 @@ You can only cancel orders using the mini-app if the order status is:
 * Pending Submission, or
 * Pending Approval.
 
-For approved orders, please go to the e-commerce store to cancel them.e-commerce store.
+For approved orders, please cancel them at the e-commerce store. Cancellations are subject to the store's terms and conditions.
 
-## 7. Delete corporate billing
+## 8. Delete corporate billing
 * How do I delete corporate billing for an e-commerce account?
 * What will happen to my e-commerce corporate account when I delete corporate billing?
 * Can I still set up corporate billing at the same e-commerce site after I delete corporate billing?
 
 ### How do I delete corporate billing for an e-commerce account?
 From the E-commerce Order mini-app:
-* Go to Accounts. Tap on the details of the corporate billing you want to delete.
-* Tap ‘Delete corporate billing’.
-* Tap ‘Delete’ to confirm. 
+1. Go to **Accounts**. Tap on the details of the corporate billing you want to delete.
+2. Tap ‘**Delete corporate billing**’.
+3. Tap ‘**Delete**’ to confirm. 
 
 If the delete is successful, you will see a success page with the title ‘Corporate billing deleted’.
 
 You can also delete corporate billing at the particular e-commerce mall. To do so, please refer to the mall’s corporate billing guide.
 
 ### What will happen to my e-commerce corporate account when I delete corporate billing?
-Your corporate account will still be there in the e-commerce store, it will not be deleted. The deletion is for the corporate billing and not the e-commerce account itself.
+Your corporate account will still be there in the e-commerce store, it will not be deleted. The deletion is for the **corporate billing** and not the e-commerce account itself.
 
 However, you will not be able to check out with corporate billing with that account. To do so, you will have to set up corporate billing again.
 
@@ -261,12 +359,12 @@ However, you will not be able to check out with corporate billing with that acco
 Yes you can, as long as your work email is not tied to an existing e-commerce account in the same e-commerce store.
 
 
-## 8. For approving officers
-These FAQs apply for approving officers that use the E-commerce Order Approval mini-app.
+## 9. For approving officers
+These FAQs apply for approving officers that use the **E-commerce Order Approval** mini-app.
 
-* How do I approve an order?
-* How do I reject an order?
-* Why do some orders have a ‘Cancelled’ or ‘Expired’ status in the History tab?
+* [How do I approve an order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-approve-an-order)
+* [How do I reject an order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-reject-an-order)
+* [Why do some orders have a ‘Cancelled’ or ‘Expired’ status in the History tab?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#why-do-some-orders-have-a-cancelled-or-expired-status-in-the-history-tab)
 
 ### How do I approve an order?
 From the E-commerce Order Approval mini-app:
