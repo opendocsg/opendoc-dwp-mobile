@@ -28,9 +28,9 @@ Due to technical constraints, we cannot hide the approval mini-app from non-AOs.
 * [Can I set up corporate billing on any e-commerce store?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-set-up-corporate-billing-on-any-e-commerce-store)
 * [Which email address do I use to sign up for an account with e-commerce?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#which-email-address-do-i-use-to-sign-up-for-an-account-with-e-commerce)
 * [How do I set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-corporate-billing)
-* [Why do I need to download the DWP Mobile app to set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html)
+* [Why do I need to download the DWP Mobile app to set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#why-do-i-need-to-download-the-dwp-mobile-app-to-set-up-corporate-billing)
 * [Which email address do I enter at the corporate billing setup page?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html)
-* [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html)
+* [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
 
 ### Can I set up corporate billing on any e-commerce store?
 Nope, you can only set up corporate billing on participating e-commerce stores that your agency has subscribed to.
@@ -38,7 +38,7 @@ Nope, you can only set up corporate billing on participating e-commerce stores t
 ### Which email address do I use to sign up for an account with e-commerce?
 It depends on the e-commerce mall you are signing up for. 
 
-Some malls allow their users to use their personal account for corporate purchases. Others may need users to sign up for a separate corporate account.
+Some malls allow their users to use their personal account for corporate purchases. Others may need users to sign up for a separate corporate account using their work email.
 
 Please check the e-commerce’s corporate billing setup guide for more information.
 
