@@ -283,7 +283,7 @@ Changes will be reflected in the following ways:
 
 
 ### What is the difference between return and refund?
-**Return** happens when the buyer sends an item back to the seller. **Refund** happens when the seller sends money back to the agency for the returned item. 
+**Return** happens when the buyer sends an item back to the seller.  **Refund** happens when the seller sends money back to the agency for the returned item. 
 
 You can return an item before or after the e-commerce store invoices the agency. Returns are subject to the store’s terms and conditions. 
 
