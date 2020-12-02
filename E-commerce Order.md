@@ -129,13 +129,13 @@ Approval settings are tied to the agency and not the corporate account itself.
 
 Some buyers may be able to procure for multiple agencies. This happens if they hold positions in multiple agencies. In that case, there will be separate approval settings for each agency.
 
-* How do I set up my agency approval settings?
-* Do I have to set up my agency approval settings every time I set up corporate billing?
-* What if I do not set up my agency approval settings at all?
-* I noticed that the cost centre and approving officer are pre-filled. Are those the right values?
-* What is the difference between auto-routing and manual routing?
-* Can I change my agency approval settings after the initial setup?
-* Can I have different approval settings for different corporate billing accounts?
+* [How do I set up my agency approval settings?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-my-agency-approval-settings)
+* [Do I have to set up my agency approval settings every time I set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#do-i-have-to-set-up-my-agency-approval-settings-every-time-i-set-up-corporate-billing)
+* [What if I do not set up my agency approval settings at all?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-if-i-do-not-set-up-my-agency-approval-settings-at-all)
+* [I noticed that the cost centre and approving officer are pre-filled. Are those the right values?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-noticed-that-the-cost-centre-and-approving-officer-are-pre-filled-are-those-the-right-values)
+* [What is the difference between auto-routing and manual routing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-is-the-difference-between-auto-routing-and-manual-routing)
+* [Can I change my agency approval settings after the initial setup?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-change-my-agency-approval-settings-after-the-initial-setup)
+* [Can I have different approval settings for different corporate billing accounts?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-have-different-approval-settings-for-different-corporate-billing-accounts)
 
 
 ### How do I set up my agency approval settings?
