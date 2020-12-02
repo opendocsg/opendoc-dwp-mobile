@@ -161,7 +161,7 @@ Refer to [Can I change my agency approval settings after the initial setup?](htt
 Nope, it is a one-time setup per agency.
 
 ### What if I do not set up my agency approval settings at all?
-You can still check out with corporate billing in the e-commerce store. However, after checkout, the order will be sent to you first via DWP Mobile. You have to send the order to your approving officer manually.
+You can still check out with corporate billing in the e-commerce store. However, after checkout, the order will be sent to you first via DWP Mobile. You have to [send the order to your approving officer](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-send-my-order-to-the-approving-officer-for-approval) manually.
 
 ### I noticed that the cost centre and approving officer are pre-filled. Are those the right values?
 The cost centre and approving officer fields are pre-filled based on the approval information we have. We recommend you to double check the values with your agency/finance representative.
