@@ -50,9 +50,11 @@ Before you start, make sure you have:
 The e-commerce account can be based on your personal email/phone number or a separate corporate account. Please check the e-commerce’s corporate billing setup guide for more information.
 
 **Part 1: Enter work email in e-commerce store**
-1. Find the corporate billing setup option in the mall. You can refer to the mall setup guide.
+1. Find the corporate billing setup option in the store. You can refer to the store's corporate billing setup guide.
 2. Enter your **work email**, i.e. Singapore Public Service official email address. It usually ends with .gov.sg, but may differ for some agencies.
-3. You will see the picture below:
+3. If you see the picture below, continue to **Part 2**. Met an error?
+
+
 
 **Part 2: Authenticate using DWP Mobile**
 
@@ -60,20 +62,21 @@ Check if you have received a push notification on your mobile telling you to aut
 
 If you **received** a push notification:
 1. Tap on the push notification.
-2. Tap ‘Yes’. When you see a success page, it means your corporate billing account has been added successfully. 
-3. (If you have not set up before) Tap “Proceed to setup” to set your agency approval settings.
+2. Tap **Yes**. When you see a success page, it means your corporate billing account has been added successfully. 
+3. (If you have not set up before) Tap **Proceed to setup** to set your agency approval settings.
 
 If you **did not receive** a push notification:
 1. Open the E-commerce order mini-app.
-2. Tap on ‘Accounts’.
+2. Tap on **Accounts**.
 3. Tap on the corporate billing request.
-4. Tap ‘Yes’. When you see a success page, it means your corporate billing account has been added successfully. 
-5. (If you have not set up before) Tap ‘Proceed to setup’ to set up your agency approval settings.
+4. Tap **Yes**. When you see a success page, it means your corporate billing account has been added successfully. 
+5. (If you have not set up before) Tap **Proceed to setup** to set up your [agency approval settings](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-my-agency-approval-settings).
 
 The corporate billing request **expires in 2 min**. If it does, you will need to set up corporate billing again at the e-commerce store.
 
 
 ### I could not set up corporate billing with my work email. Why?
+
 This may happen due to the following reasons:
 
 * It could be a typo for your email. Please check the email entered and try again.
@@ -87,38 +90,38 @@ For security reasons, you need to authenticate the corporate billing request usi
 ### I did not receive a push notification that asks me to authenticate the corporate billing request.
 This may have happened because:
 
-* You have turned off push notifications for DWP Mobile. Turn on push notifications
+* You have turned off push notifications for DWP Mobile. [Turn on push notifications](https://mobilefaq.digitalworkplace.gov.sg/Technical%20Support.html#3-push-notification)
 * Unknown technical issues. We are aware that some users do not receive push notifications even though they have turned on the notifications for the app. We are unsure why this happens, but we are working on it!
 
-If you did not receive a push notification, you can still set up corporate billing.
+If you did not receive a push notification, you can still [set up corporate billing](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-corporate-billing).
 
 ### The app tells me that my corporate billing request has expired.
 If it expires, you will need to set up corporate billing again at the e-commerce store again. 
 
-Corporate billing requests expire after 2 min. For a smoother setup process, ensure that your phone is ready at hand while you are setting up corporate billing.
+Corporate billing requests expire after **2 min**. For a smoother setup process, ensure that your phone is ready at hand while you are setting up corporate billing.
 
-### I cannot see the pending corporate billing request in the ‘Accounts’ page.
+### I cannot see the pending corporate billing request in the Accounts page.
 This may have happened because:
-* The ‘Accounts’ page has not been updated. 
+* The Accounts page has not been updated. 
 * Your corporate billing request has expired.
 
 Try refreshing the Accounts page by pulling down and releasing the page. If that does not work, try setting up corporate billing again at the e-commerce store. 
 
 For a smoother setup process, ensure that your phone is ready at hand while you are setting up corporate billing.
 
-### The app tells me that the corporate billing setup was successful, but I do not see the corporate billing account in the ‘Accounts’ page.
+### The app tells me that the corporate billing setup was successful, but I do not see the corporate billing account in the Accounts page.
 This may have happened because:
-* The ‘Accounts’ page has not been updated. 
-* There were errors on the e-commerce store’s end. Please set up corporate billing at the e-commerce store again.
+* The Accounts page has not been updated. 
+* There were errors on the e-commerce store’s end. 
 
 Try refreshing the Accounts page by pulling down and releasing the page. If that does not work, try setting up corporate billing again at the e-commerce store. 
 
 ### If I have multiple work profiles, which agency will my corporate billing account be tied to? (E.g. I am from GovTech and Enterprise Singapore)
 It depends on the agency you select during corporate billing setup in the E-commerce Order mini-app.
 
-* Tap on the agency field.
+* Tap on the **Agency** field.
 * Choose the agency you want to tie the corporate billing account to.
-* Tap ‘Yes’.
+* Tap **Yes**.
 
 Orders checked out using this corporate billing account will be tied to the agency you selected for the account.
 
@@ -129,34 +132,31 @@ Approval settings are tied to the agency and not the corporate account itself.
 
 Some buyers may be able to procure for multiple agencies. This happens if they hold positions in multiple agencies. In that case, there will be separate approval settings for each agency.
 
-* How do I set up my agency approval settings?
-* Do I have to set up my agency approval settings every time I set up corporate billing?
-* What if I do not set up my agency approval settings at all?
-* I noticed that the cost centre and approving officer are pre-filled. Are those the right values?
-* What is the difference between auto-routing and manual routing?
-* Can I change my agency approval settings after the initial setup?
-* Can I have different approval settings for different corporate billing accounts?
+![How settings look like if you have multiple agencies](/assets/img_svp_2.png)
+
+* [How do I set up my agency approval settings?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-my-agency-approval-settings)
+* [Do I have to set up my agency approval settings every time I set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#do-i-have-to-set-up-my-agency-approval-settings-every-time-i-set-up-corporate-billing)
+* [What if I do not set up my agency approval settings at all?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-if-i-do-not-set-up-my-agency-approval-settings-at-all)
+* [I noticed that the cost centre and approving officer are pre-filled. Are those the right values?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-noticed-that-the-cost-centre-and-approving-officer-are-pre-filled-are-those-the-right-values)
+* [What is the difference between auto-routing and manual routing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-is-the-difference-between-auto-routing-and-manual-routing)
+* [Can I change my agency approval settings after the initial setup?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-change-my-agency-approval-settings-after-the-initial-setup)
+* [Can I have different approval settings for different corporate billing accounts?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-have-different-approval-settings-for-different-corporate-billing-accounts)
 
 
 ### How do I set up my agency approval settings?
 **Option 1. After you set up corporate billing for the first time**
 
-In the corporate billing setup success page:
-1. Tap on the  ‘Proceed to setup’ button. 
+In the **corporate billing setup success** page:
+1. Tap on the **Proceed to setup** button. 
 2. Select your approving officer and frequently used cost centre.
 3. Choose the routing option you prefer.
-4. Tap ‘Submit’. Your preferences will be updated.
+4. Tap **Submit**. Your preferences will be updated.
 
-If you do not see a ‘Proceed to setup’ button, it means that you have previously set the approval settings for the agency. If you want to change your agency approval settings, please refer to option 2.
+If you do not see the Proceed to Setup button, it means that you have previously set the approval settings for the agency. In this case, see option 2 to know how to change your agency approval settings.
 
 **Option 2. Any time, at the Settings page**
 
-From the E-commerce Order Approval mini-app landing page:
-
-1. Go to the Settings tab and tap on the agency that you are changing settings for.
-2. Confirm your approving officer and frequently used cost centre.
-3. Choose the routing option you prefer.
-4. Tap ‘Save Changes’. Your preferences will be updated.
+Refer to [Can I change my agency approval settings after the initial setup?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-change-my-agency-approval-settings-after-the-initial-setup).
 
 ### Do I have to set up my agency approval settings every time I set up corporate billing?
 Nope, it is a one-time setup per agency.
@@ -165,25 +165,27 @@ Nope, it is a one-time setup per agency.
 You can still check out with corporate billing in the e-commerce store. However, after checkout, the order will be sent to you first via DWP Mobile. You have to send the order to your approving officer manually.
 
 ### I noticed that the cost centre and approving officer are pre-filled. Are those the right values?
-The cost centre and approving officer fields are pre-filled based on the approval information we have. We recommend you to double check the values.
+The cost centre and approving officer fields are pre-filled based on the approval information we have. We recommend you to double check the values with your agency/finance representative.
 
 ### What is the difference between auto-routing and manual routing?
 The routing options affect the post-checkout process of your order.
 
 **Auto** - The order will be sent to the approving officer in your agency approval settings. This happens immediately after checkout.
 
-**Manual** - The order will be sent to you via DWP mobile. You will need to send the order to your approving officer manually in the details page.
+**Manual** - The order will be sent to you via DWP mobile. You will need to [send the order to your approving officer](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-send-my-order-to-the-approving-officer-for-approval) manually in the details page.
 
 ### Can I change my agency approval settings after the initial setup?
-Yes, you can change your approval settings in the E-commerce Order Approval mini-app.
+Yes, you can change your approval settings in the E-commerce Order mini-app.
 
-1. Go to the Settings tab and tap on the agency that you are changing settings for.
+1. Go to the **Settings** tab and tap on the agency that you are changing settings for.
 2. Confirm your approving officer and frequently used cost centre.
 3. Choose the routing option you prefer.
-4. Tap ‘Save Changes’. Your preferences will be updated.
+4. Tap **Save Changes**. Your preferences will be updated.
 
 ### Can I have different approval settings for different corporate billing accounts?
 Nope. Approval settings are tied to your agency, and not to the corporate billing account.
+
+![](/assets/img_svp_3.png)
 
 
 ## 4. Checkout with corporate billing
@@ -197,23 +199,23 @@ Nope. Approval settings are tied to your agency, and not to the corporate billin
 * [What is the exact expiry duration for carts (e.g. X mins)?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-is-the-exact-expiry-duration-for-carts-eg-x-mins)
 
 ### How do I check out with corporate billing?
-Make sure that you have already [set up corporate billing](https://) for smoother checkout process.
+Make sure that you have already [set up corporate billing](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-corporate-billing) for smoother checkout process.
 
 1. During checkout, select corporate billing as the payment option.
 2. Enter the reason for purchase.
 3. Place the order. That's all!
 
 ### What happens after checkout? Do I need to do anything?
-After checkout, you should receive a push notification ([Not receiving any push notifications](https://)?). 
+After checkout, you should receive a push notification ([Not receiving any push notifications?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-did-not-receive-a-push-notification-that-asks-me-to-authenticate-the-corporate-billing-request). 
 
-If you did not receive a push notification, you can go to the E-commerce order mini-app to check your order status.
+If you did not receive a push notification, you can [check your order status](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-view-my-order-statuses) by going to the E-commerce Order mini-app.
 
 Refer to the table below to see the action(s) needed:
 
 | Push notification received | Order status in E-commerce order mini-app | What it means | What to do |
 | -------- | -------- | -------- | -------- |
-| Your order has been sent to *AO* for approval. Cost centre: *Cost Centre name*.     | Pending Approval  | Your order has been sent to AO for approval.   | Wait for AO to act on your order.|
-| Action needed: Send your purchase to your approving officer using DWP Mobile before it expires. | Pending confirmation | Your order has NOT been sent to the AO yet. | From the E-commerce Order mini-app, go to the order details and send the order for approval. |
+| Your order has been sent to *[Approving officer (AO) name]* for approval. Cost centre: *[Cost Centre]*.     | Pending Approval  | Your order has been sent to AO for approval.   | Wait for AO to act on your order.|
+| Action needed: Send your purchase to your approving officer using DWP Mobile before it expires. | Pending confirmation | Your order has NOT been sent to the AO yet. | [Send the order to the AO approval](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-send-my-order-to-the-approving-officer-for-approval). |
 
 ### How do I send my order to the approving officer for approval?
 From the E-commerce Order mini-app:
@@ -248,7 +250,7 @@ The e-commerce store determines the expiry duration. Please approach the store t
 * [What are the different order statuses in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-are-the-different-order-statuses-in-the-mini-app)
 * [There were some changes to my order after checkout. How would these changes appear in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#there-were-some-changes-to-my-order-after-checkout-how-would-these-changes-appear-in-the-mini-app)
 * [What is the difference between return and refund?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-is-the-difference-between-return-and-refund)
-* [Where can I find information about shipping in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-find-information-about-shipping-in-the-mini-app")
+* [Where can I find information about shipping in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-find-information-about-shipping-in-the-mini-app)
 
 ### Where can I view my order statuses?
 From the E-commerce Order mini-app, go to the **Orders** tab to see the list of orders you made. The order statuses are displayed on the right. You can tap in to know more about the status.
@@ -283,7 +285,7 @@ Changes will be reflected in the following ways:
 
 
 ### What is the difference between return and refund?
-**Return** happens when the buyer sends an item back to the seller. **Refund** happens when the seller sends money back to the agency for the returned item. 
+**Return** happens when the buyer sends an item back to the seller.  **Refund** happens when the seller sends money back to the agency for the returned item. 
 
 You can return an item before or after the e-commerce store invoices the agency. Returns are subject to the store’s terms and conditions. 
 
@@ -352,7 +354,7 @@ From the E-commerce Order mini-app:
 
 If the delete is successful, you will see a success page with the title **Corporate billing deleted**.
 
-You can also delete corporate billing at the particular e-commerce mall. To do so, please refer to the mall’s corporate billing guide.
+You can also delete corporate billing at the particular e-commerce store. To do so, please refer to the store’s corporate billing guide.
 
 ### What will happen to my e-commerce corporate account when I delete corporate billing?
 Your corporate account will still be there in the e-commerce store, it will not be deleted. The deletion is for the **corporate billing** and not the e-commerce account itself.
