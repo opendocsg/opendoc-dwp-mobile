@@ -277,7 +277,9 @@ From the E-commerce Order mini-app, go to the Orders tab to see the list of orde
 ### What is the difference between return and refund?
 **Return** happens when the buyer sends an item back to the seller. **Refund** happens when the seller sends money back to the agency for the returned item. 
 
-You can return an item before or after the e-commerce store invoices the agency. Returns are subject to the store’s terms and conditions. If you return an item after invoicing happens, the store has to issue a refund to the agency for the returned item.
+You can return an item before or after the e-commerce store invoices the agency. Returns are subject to the store’s terms and conditions. 
+
+If you return an item after invoicing happens, the store has to issue a refund to the agency for the returned item.
 
 ### Where can I find information about shipping in the mini-app?
 The mini-app only shows the delivery address. For shipping/delivery statuses and time, please check with the e-commerce store.
@@ -286,9 +288,9 @@ The mini-app only shows the delivery address. For shipping/delivery statuses and
 ## 6. Amend order approval details
 After sending the order for approval, you can change the cost centre and approving officer for the order within a designated period.
 
-* When can I amend order approval details?
-* How do I amend my order approval details?
-* Can I change item quantities and delivery addresses on the mini-app?
+* [When can I amend order approval details?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#when-can-i-amend-order-approval-details)
+* [How do I amend my order approval details?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-amend-my-order-approval-details)
+* [Can I change item quantities and delivery addresses on the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-change-item-quantities-and-delivery-addresses-on-the-mini-app)
 
 ### When can I amend order approval details?
 You can only amend approval details on orders using the mini-app if the order status is:
@@ -299,30 +301,28 @@ You can only amend approval details on orders using the mini-app if the order st
 From the E-commerce Order mini-app:
 1. In the **Orders** tab, tap on the order you want to amend. 
 2. Scroll down to the bottom.
-3. Tap ‘**Amend approval**’.
-4. Tap ‘**Proceed to amend**’. The order status will be changed to ‘Pending Submission’.
+3. Tap **Amend approval**.
+4. Tap **Proceed to amend**. The order status will be changed to Pending Submission.
 5. Make changes to the cost centre and/or approving officer.
-6. Tap '**Send for approval**'. The order status will be changed to ‘Pending Approval’.
+6. Tap **Send for approval**. The order status will be changed to Pending Approval. Done!
 
 ### Can I change item quantities and delivery addresses on the mini-app?
-You can only change item quantities and delivery addresses in the e-commerce store. 
-
-The changes will be reflected in the mini-app.
+You can only change item quantities and delivery addresses in the e-commerce store. The changes will be reflected in the mini-app.
 
 ## 7. Cancel order
-* How do I cancel my order?
-* I cannot find the ‘Cancel order’ button at the bottom of the order details.
+* [How do I cancel my order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-cancel-my-order)
+* [I cannot find the ‘Cancel order’ button at the bottom of the order details.](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-cannot-find-the-cancel-order-button-at-the-bottom-of-the-order-details)
 
 ### How do I cancel my order?
 You can cancel orders through the E-commerce Order mini-app or the e-commerce store.
 
 From the E-commerce Order mini-app:
-1. In the Orders tab, tap on the order you want to cancel. 
+1. In the **Orders** tab, tap on the order you want to cancel. 
 2. Scroll down to the bottom of the details page.
-3. Tap ‘Cancel order’.
-4. Tap ‘Yes, cancel’.
+3. Tap **Cancel order**.
+4. Tap **Yes, cancel** to confirm.
 
-If order cancellation is successful, you will see a success page with the title ‘Order cancelled’.
+If order cancellation is successful, you will see a success page with the title **Order cancelled**.
 
 ### I cannot find the ‘Cancel order’ button at the bottom of the order details.
 You can only cancel orders using the mini-app if the order status is:
@@ -332,15 +332,15 @@ You can only cancel orders using the mini-app if the order status is:
 For approved orders, please cancel them at the e-commerce store. Cancellations are subject to the store's terms and conditions.
 
 ## 8. Delete corporate billing
-* How do I delete corporate billing for an e-commerce account?
-* What will happen to my e-commerce corporate account when I delete corporate billing?
-* Can I still set up corporate billing at the same e-commerce site after I delete corporate billing?
+* [How do I delete corporate billing for an e-commerce account?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-delete-corporate-billing-for-an-e-commerce-account)
+* [What will happen to my e-commerce corporate account when I delete corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-will-happen-to-my-e-commerce-corporate-account-when-i-delete-corporate-billing)
+* [Can I still set up corporate billing at the same e-commerce site after I delete corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-still-set-up-corporate-billing-at-the-same-e-commerce-site-after-i-delete-corporate-billing)
 
 ### How do I delete corporate billing for an e-commerce account?
 From the E-commerce Order mini-app:
 1. Go to **Accounts**. Tap on the details of the corporate billing you want to delete.
-2. Tap ‘**Delete corporate billing**’.
-3. Tap ‘**Delete**’ to confirm. 
+2. Tap **Delete corporate billing**.
+3. Tap **Delete** to confirm. 
 
 If the delete is successful, you will see a success page with the title ‘Corporate billing deleted’.
 
@@ -360,26 +360,26 @@ These FAQs apply for approving officers that use the **E-commerce Order Approval
 
 * [How do I approve an order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-approve-an-order)
 * [How do I reject an order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-reject-an-order)
-* [Why do some orders have a ‘Cancelled’ or ‘Expired’ status in the History tab?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#why-do-some-orders-have-a-cancelled-or-expired-status-in-the-history-tab)
+* [Why do some orders have a "Cancelled" or "Expired" status in the History tab?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#why-do-some-orders-have-a-cancelled-or-expired-status-in-the-history-tab)
 
 ### How do I approve an order?
 From the E-commerce Order Approval mini-app:
-1. In the Pending tab, tap on the order you want to approve.
-2. Scroll down to the ‘For Approving Officer’ section.
+1. In the **Pending** tab, tap on the order you want to approve.
+2. Scroll down to the **For Approving Officer** section.
 3. (Optional) Enter your remarks.
-4. Tap ‘Approve’.
+4. Tap **Approve**.
 
 ### How do I reject an order?
 From the E-commerce Order Approval mini-app:
-1. In the Pending tab, tap on the order you want to reject.
-2. Scroll down to the ‘For Approving Officer’ section.
+1. In the **Pending** tab, tap on the order you want to reject.
+2. Scroll down to the **For Approving Officer** section.
 3. Enter your remarks.
-4. Tap 'Reject'.
+4. Tap **Reject**.
 
-### Why do some orders have a ‘Cancelled’ or ‘Expired’ status in the History tab?
-Orders will have the ‘Cancelled’ status if buyers or e-commerce stores cancelled the order. In this case, the e-commerce store will not process the order, even if it was previously approved.
+### Why do some orders have a "Cancelled" or "Expired" status in the History tab?
+Orders will have the **Cancelled** status if buyers or e-commerce stores cancelled the order. In this case, the e-commerce store will not process the order, even if it was previously approved.
 
-Orders will have the ‘Expired’ status if it was not approved/rejected within a stipulated time. The time is determined by the respective e-commerce store.
+Orders will have the **Expired** status if it was not approved/rejected within a stipulated time. The time is determined by the respective e-commerce store.
 
 
 
