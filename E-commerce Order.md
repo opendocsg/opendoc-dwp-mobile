@@ -1,5 +1,5 @@
 # E-commerce Order
-This initiative is currently in its **pilot phase**. Only selected agencies are onboard. 
+This initiative is currently in its **pilot phase**. Only agencies in the pilot phase will see the mini-apps.
 
 If you are a **buyer** using the **E-commerce Order mini-app**, refer to sections **2 to 8**.
 
@@ -11,7 +11,7 @@ If you are an approving officer using the** E-commerce Order Approval** mini-app
 * [What is the “E-commerce Order Approval” mini-app for?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#who-are-the-participating-e-commerce-stores)
 
 ### Which are the participating e-commerce stores?
-Currently, Eezee and Shopee are the pilot stores for the initiative. More stores will be onboarded soon. 
+Currently, Eezee and Shopee are the pilot stores for the initiative. More stores are on the way. 
 
 Your agency may not have subscribed to all the stores. Please approach your agency representative for more information.
 
@@ -244,11 +244,11 @@ The e-commerce store determines the expiry duration. Please approach the store t
 
 
 ## 5. View orders
-* Where can I view my order statuses?
-* What are the different order statuses in the mini-app?
-* There were some changes to my order after checkout. How would these changes appear in the mini-app?
-* What is the difference between return and refund?
-* Where can I find information about shipping in the mini-app?
+* [Where can I view my order statuses?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-view-my-order-statuses)
+* [What are the different order statuses in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-are-the-different-order-statuses-in-the-mini-app)
+* [There were some changes to my order after checkout. How would these changes appear in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#there-were-some-changes-to-my-order-after-checkout-how-would-these-changes-appear-in-the-mini-app)
+* [What is the difference between return and refund?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-is-the-difference-between-return-and-refund)
+* [Where can I find information about shipping in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-find-information-about-shipping-in-the-mini-app")
 
 ### Where can I view my order statuses?
 From the E-commerce Order mini-app, go to the Orders tab to see the list of orders you made. The order statuses are displayed on the right. You can tap in to know more about the status.
@@ -270,9 +270,14 @@ AO = Approving Officer, the officer who is approving the SVP purchase.
 | Expired | The order has expired and will not be processed by the e-commerce store. The buyer would have to check out from the store again to procure the items. | Buyer (Depends) |
 
 ### There were some changes to my order after checkout. How would these changes appear in the mini-app?
-The changes will be reflected in the details page of the order.
+The changes will be reflected in the **Details** page of the order.
 
-From the E-commerce Order mini-app, go to the Orders tab to see the list of orders you made. You can tap in to view the order details. Changes will be reflected in the following ways:
+From the E-commerce Order mini-app, go to the **Orders** tab to see the list of orders you made. You can tap in to view the order details. 
+
+Changes will be reflected in the following ways:
+
+![How changes to orders will be reflected in the E-commerce Order mini-app](/assets/img_svp_1.png)
+
 
 ### What is the difference between return and refund?
 **Return** happens when the buyer sends an item back to the seller. **Refund** happens when the seller sends money back to the agency for the returned item. 
@@ -342,7 +347,7 @@ From the E-commerce Order mini-app:
 2. Tap **Delete corporate billing**.
 3. Tap **Delete** to confirm. 
 
-If the delete is successful, you will see a success page with the title ‘Corporate billing deleted’.
+If the delete is successful, you will see a success page with the title **Corporate billing deleted**.
 
 You can also delete corporate billing at the particular e-commerce mall. To do so, please refer to the mall’s corporate billing guide.
 
