@@ -33,7 +33,7 @@ Due to technical constraints, we cannot hide the approval mini-app from non-AOs.
 * [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
 
 ### Can I set up corporate billing on any e-commerce store?
-Nope, you can only set up corporate billing on participating e-commerce stores that your agency has subscribed to.
+Nope, you can only set up corporate billing on participating e-commerce stores that your agency has subscribed to. Please approach your agency representative for more information.
 
 ### Which email address do I use to sign up for an account with e-commerce?
 It depends on the e-commerce mall you are signing up for. 
@@ -140,6 +140,7 @@ Some buyers may be able to procure for multiple agencies. This happens if they h
 * [I noticed that the cost centre and approving officer are pre-filled. Are those the right values?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-noticed-that-the-cost-centre-and-approving-officer-are-pre-filled-are-those-the-right-values)
 * [What is the difference between auto-routing and manual routing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-is-the-difference-between-auto-routing-and-manual-routing)
 * [Can I change my agency approval settings after the initial setup?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-change-my-agency-approval-settings-after-the-initial-setup)
+* [The app tells me that my cost centre/approving officer is not valid anymore.](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#)
 * [Can I have different approval settings for different corporate billing accounts?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-have-different-approval-settings-for-different-corporate-billing-accounts)
 
 
@@ -181,6 +182,16 @@ Yes, you can change your approval settings in the E-commerce Order mini-app.
 2. Confirm your approving officer and frequently used cost centre.
 3. Choose the routing option you prefer.
 4. Tap **Save Changes**. Your preferences will be updated.
+
+### The app tells me that my cost centre/approving officer is not valid anymore.
+These errors show when:
+* Your agency do not use the cost centre anymore;
+* Your approving officer is not in charge of this cost centre anymore, and/or
+* Your approving officer has left the agency.
+
+When this happens, **select another** cost centre or approving officer for your agency approval settings.
+
+Note: If either cost centre or approving officer are invalid, orders you check out for that agency will be **sent to you first**, even if auto-approval is on.
 
 ### Can I have different approval settings for different corporate billing accounts?
 Nope. Approval settings are tied to your agency, and not to the corporate billing account.
@@ -394,6 +405,3 @@ Orders will have the **Expired** status if it was not approved/rejected within a
 ## Having issues?
 
 * [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
-
-
-
