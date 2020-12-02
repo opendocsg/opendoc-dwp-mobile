@@ -117,9 +117,9 @@ Try refreshing the Accounts page by pulling down and releasing the page. If that
 ### If I have multiple work profiles, which agency will my corporate billing account be tied to? (E.g. I am from GovTech and Enterprise Singapore)
 It depends on the agency you select during corporate billing setup in the E-commerce Order mini-app.
 
-* Tap on the **Agency** field.
-* Choose the agency you want to tie the corporate billing account to.
-* Tap **Yes**.
+1. Tap on the **Agency** field.
+2. Choose the agency you want to tie the corporate billing account to.
+3. Tap **Yes**.
 
 Orders checked out using this corporate billing account will be tied to the agency you selected for the account.
 
