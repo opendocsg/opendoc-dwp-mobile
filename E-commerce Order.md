@@ -206,14 +206,14 @@ Make sure that you have already [set up corporate billing](https://mobilefaq.dig
 ### What happens after checkout? Do I need to do anything?
 After checkout, you should receive a push notification ([Not receiving any push notifications?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-did-not-receive-a-push-notification-that-asks-me-to-authenticate-the-corporate-billing-request). 
 
-If you did not receive a push notification, you can go to the E-commerce order mini-app to check your order status.
+If you did not receive a push notification, you can [check your order status](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-view-my-order-statuses) by going to the E-commerce Order mini-app.
 
 Refer to the table below to see the action(s) needed:
 
 | Push notification received | Order status in E-commerce order mini-app | What it means | What to do |
 | -------- | -------- | -------- | -------- |
 | Your order has been sent to *AO* for approval. Cost centre: *Cost Centre name*.     | Pending Approval  | Your order has been sent to AO for approval.   | Wait for AO to act on your order.|
-| Action needed: Send your purchase to your approving officer using DWP Mobile before it expires. | Pending confirmation | Your order has NOT been sent to the AO yet. | From the E-commerce Order mini-app, go to the order details and send the order for approval. |
+| Action needed: Send your purchase to your approving officer using DWP Mobile before it expires. | Pending confirmation | Your order has NOT been sent to the AO yet. | Send the order for approval. |
 
 ### How do I send my order to the approving officer for approval?
 From the E-commerce Order mini-app:
