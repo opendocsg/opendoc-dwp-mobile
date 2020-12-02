@@ -61,7 +61,7 @@ Check if you have received a push notification on your mobile telling you to aut
 If you **received** a push notification:
 1. Tap on the push notification.
 2. Tap **Yes**. When you see a success page, it means your corporate billing account has been added successfully. 
-3. (If you have not set up before) Tap **Proceed to setup** to set your agency approval settings.
+3. (If you have not set up before) Tap **Proceed to setup** to set up your [agency approval settings](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-my-agency-approval-settings).
 
 If you **did not receive** a push notification:
 1. Open the E-commerce order mini-app.
