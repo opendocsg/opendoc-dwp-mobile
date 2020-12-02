@@ -138,7 +138,7 @@ Some buyers may be able to procure for multiple agencies. This happens if they h
 * [I noticed that the cost centre and approving officer are pre-filled. Are those the right values?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-noticed-that-the-cost-centre-and-approving-officer-are-pre-filled-are-those-the-right-values)
 * [What is the difference between auto-routing and manual routing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-is-the-difference-between-auto-routing-and-manual-routing)
 * [Can I change my agency approval settings after the initial setup?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-change-my-agency-approval-settings-after-the-initial-setup)
-* [The app tells me that my cost centre/approving officer is not valid anymore.](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#)
+* [The app tells me that my cost centre/approving officer is not valid anymore.](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#the-app-tells-me-that-my-cost-centreapproving-officer-is-not-valid-anymore)
 * [Can I have different approval settings for different corporate billing accounts?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-have-different-approval-settings-for-different-corporate-billing-accounts)
 
 
@@ -408,12 +408,12 @@ Do look through the section(s) related to your question to see if we have answer
 
 Here are some commonly faced issues:
 
-* **Setting up corporate billing:** [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
-* Setting up
+* [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
+* [The app tells me that my cost centre/approving officer is not valid anymore.](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#the-app-tells-me-that-my-cost-centreapproving-officer-is-not-valid-anymore)
 
-If you cannot find an answer to your question, please refer to the table below 
+If you cannot find an answer to your question, please refer to the table below:
 
-| Issue | Who to contact |
+| Questions regarding... | Who to contact |
 | -------- | -------- |
 | Policy| Your agency |
 | Changing order approval| Your agency's AFM helpdesk | 
