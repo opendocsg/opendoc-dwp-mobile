@@ -129,6 +129,8 @@ Approval settings are tied to the agency and not the corporate account itself.
 
 Some buyers may be able to procure for multiple agencies. This happens if they hold positions in multiple agencies. In that case, there will be separate approval settings for each agency.
 
+![How settings look like if you have multiple agencies](/assets/img_svp_2.png)
+
 * [How do I set up my agency approval settings?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-my-agency-approval-settings)
 * [Do I have to set up my agency approval settings every time I set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#do-i-have-to-set-up-my-agency-approval-settings-every-time-i-set-up-corporate-billing)
 * [What if I do not set up my agency approval settings at all?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-if-i-do-not-set-up-my-agency-approval-settings-at-all)
@@ -151,12 +153,7 @@ If you do not see a ‘Proceed to setup’ button, it means that you have previo
 
 **Option 2. Any time, at the Settings page**
 
-From the E-commerce Order Approval mini-app landing page:
-
-1. Go to the Settings tab and tap on the agency that you are changing settings for.
-2. Confirm your approving officer and frequently used cost centre.
-3. Choose the routing option you prefer.
-4. Tap ‘Save Changes’. Your preferences will be updated.
+Refer to [Can I change my agency approval settings after the initial setup?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-change-my-agency-approval-settings-after-the-initial-setup).
 
 ### Do I have to set up my agency approval settings every time I set up corporate billing?
 Nope, it is a one-time setup per agency.
@@ -175,12 +172,12 @@ The routing options affect the post-checkout process of your order.
 **Manual** - The order will be sent to you via DWP mobile. You will need to send the order to your approving officer manually in the details page.
 
 ### Can I change my agency approval settings after the initial setup?
-Yes, you can change your approval settings in the E-commerce Order Approval mini-app.
+Yes, you can change your approval settings in the E-commerce Order mini-app.
 
-1. Go to the Settings tab and tap on the agency that you are changing settings for.
+1. Go to the **Settings** tab and tap on the agency that you are changing settings for.
 2. Confirm your approving officer and frequently used cost centre.
 3. Choose the routing option you prefer.
-4. Tap ‘Save Changes’. Your preferences will be updated.
+4. Tap **Save Changes**. Your preferences will be updated.
 
 ### Can I have different approval settings for different corporate billing accounts?
 Nope. Approval settings are tied to your agency, and not to the corporate billing account.
