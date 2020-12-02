@@ -403,6 +403,20 @@ Orders will have the **Cancelled** status if buyers or e-commerce stores cancell
 
 Orders will have the **Expired** status if it was not approved/rejected within a stipulated time. The time is determined by the respective e-commerce store.
 
-## Having issues?
+## 10. Have questions?
+Do look through the section(s) related to your question to see if we have answered it.
 
-* [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
+Here are some commonly faced issues:
+
+* **Setting up corporate billing:** [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
+* Setting up
+
+If you cannot find an answer to your question, please refer to the table below 
+
+| Issue | Who to contact |
+| -------- | -------- |
+| Policy| Your agency |
+| Changing order approval| Your agency's AFM helpdesk | 
+| Shipping/Delivery| E-commerce store | 
+
+
