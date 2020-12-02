@@ -22,6 +22,135 @@ This mini-app is for Small Value Purchase approving officers (AOs). In this mini
 
 Due to technical constraints, we cannot hide the approval mini-app from non-AOs. If you are not an AO, please ignore this mini-app.
 
+## 2. Set up corporate billing
+
+* Can I set up corporate billing on any e-commerce store?
+* What do I need to set up corporate billing?
+* How do I set up corporate billing?
+* Which email address do I use to sign up for an account with e-commerce?
+* Why do I need to download the DWP Mobile app to set up corporate billing?
+* Which email address do I enter at the corporate billing setup page?
+* I could not set up corporate billing with my work email. Why?
+
+### Can I set up corporate billing on any e-commerce store?
+Nope, you can only set up corporate billing on participating e-commerce stores that your agency has subscribed to.
+
+### What do I need to set up corporate billing?
+You would need:
+* A DWP mobile app account, and
+* An account on the participating e-commerce store.
+
+The e-commerce account can be based on your personal email/phone number or a separate corporate account. Please check the e-commerce’s corporate billing setup guide for more information.
+
+### Which email address do I use to sign up for an account with e-commerce?
+It depends on the e-commerce mall you are signing up for. 
+
+Some malls allow their users to use their personal account for corporate purchases. Others may need users to sign up for a separate corporate account.
+
+Please check the e-commerce’s corporate billing setup guide for more information.
+
+### I did not receive a push notification that asks me to authenticate the corporate billing request.
+This may have happened because:
+
+* You have turned off push notifications for DWP Mobile. Turn on push notifications
+* Unknown technical issues. We are aware that some users do not receive push notifications even though they have turned on the notifications for the app. We are unsure why this happens, but we are working on it!
+
+If you did not receive a push notification, you can still set up corporate billing.
+
+### The app tells me that my corporate billing request has expired.
+If it expires, you will need to set up corporate billing again at the e-commerce store again. 
+
+Corporate billing requests expire after 2 min. For a smoother setup process, ensure that your phone is ready at hand while you are setting up corporate billing.
+
+### I cannot see the pending corporate billing request in the ‘Accounts’ page.
+This may have happened because:
+* The ‘Accounts’ page has not been updated. 
+* Your corporate billing request has expired.
+
+Try refreshing the Accounts page by pulling down and releasing the page. If that does not work, try setting up corporate billing again at the e-commerce store. 
+
+For a smoother setup process, ensure that your phone is ready at hand while you are setting up corporate billing.
+
+### The app tells me that the corporate billing setup was successful, but I do not see the corporate billing account in the ‘Accounts’ page.
+This may have happened because:
+* The ‘Accounts’ page has not been updated. 
+* There were errors on the e-commerce store’s end. Please set up corporate billing at the e-commerce store again.
+
+Try refreshing the Accounts page by pulling down and releasing the page. If that does not work, try setting up corporate billing again at the e-commerce store. 
+
+### If I have multiple work profiles, which agency will my corporate billing account be tied to? (E.g. I am from GovTech and Enterprise Singapore)
+It depends on the agency you select during corporate billing setup in the E-commerce Order mini-app.
+
+* Tap on the agency field.
+* Choose the agency you want to tie the corporate billing account to.
+* Tap ‘Yes’.
+
+Orders checked out using this corporate billing account will be tied to the agency you selected for the account.
+
+## 3. Setting agency approval settings
+Your approval settings determine the approval process for your orders. This includes the cost centre, approving officer and approval routing options. 
+
+Approval settings are tied to the agency and not the corporate account itself. 
+
+Some buyers may be able to procure for multiple agencies. This happens if they hold positions in multiple agencies. In that case, there will be separate approval settings for each agency.
+
+* How do I set up my agency approval settings?
+* Do I have to set up my agency approval settings every time I set up corporate billing?
+* What if I do not set up my agency approval settings at all?
+* I noticed that the cost centre and approving officer are pre-filled. Are those the right values?
+* What is the difference between auto-routing and manual routing?
+* Can I change my agency approval settings after the initial setup?
+* Can I have different approval settings for different corporate billing accounts?
+
+
+### How do I set up my agency approval settings?
+**Option 1. After you set up corporate billing for the first time**
+
+In the corporate billing setup success page:
+1. Tap on the  ‘Proceed to setup’ button. 
+2. Select your approving officer and frequently used cost centre.
+3. Choose the routing option you prefer.
+4. Tap ‘Submit’. Your preferences will be updated.
+
+If you do not see a ‘Proceed to setup’ button, it means that you have previously set the approval settings for the agency. If you want to change your agency approval settings, please refer to option 2.
+
+**Option 2. Any time, at the Settings page**
+
+From the E-commerce Order Approval mini-app landing page:
+
+1. Go to the Settings tab and tap on the agency that you are changing settings for.
+2. Confirm your approving officer and frequently used cost centre.
+3. Choose the routing option you prefer.
+4. Tap ‘Save Changes’. Your preferences will be updated.
+
+### Do I have to set up my agency approval settings every time I set up corporate billing?
+Nope, it is a one-time setup per agency.
+
+### What if I do not set up my agency approval settings at all?
+You can still check out with corporate billing in the e-commerce store. However, after checkout, the order will be sent to you first via DWP Mobile. You have to send the order to your approving officer manually.
+
+### I noticed that the cost centre and approving officer are pre-filled. Are those the right values?
+The cost centre and approving officer fields are pre-filled based on the approval information we have. We recommend you to double check the values.
+
+### What is the difference between auto-routing and manual routing?
+The routing options affect the post-checkout process of your order.
+
+**Auto** - The order will be sent to the approving officer in your agency approval settings. This happens immediately after checkout.
+
+**Manual** - The order will be sent to you via DWP mobile. You will need to send the order to your approving officer manually in the details page.
+
+### Can I change my agency approval settings after the initial setup?
+Yes, you can change your approval settings in the E-commerce Order Approval mini-app.
+
+1. Go to the Settings tab and tap on the agency that you are changing settings for.
+2. Confirm your approving officer and frequently used cost centre.
+3. Choose the routing option you prefer.
+4. Tap ‘Save Changes’. Your preferences will be updated.
+
+### Can I have different approval settings for different corporate billing accounts?
+Nope. Approval settings are tied to your agency, and not to the corporate billing account.
+
+
 ## 4. View orders
 * Where can I view my order statuses?
 * What are the different order statuses in the mini-app?
