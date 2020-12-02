@@ -8,7 +8,7 @@ If you are an approving officer using the **E-commerce Order Approval** mini-app
 ## 1. About this initiative
 * [Which are the participating e-commerce stores?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#which-are-the-participating-e-commerce-stores)
 * [Where can I find the policy details for this initiative?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-find-the-policy-details-for-this-initiative)
-* [What is the “E-commerce Order Approval” mini-app for?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#who-are-the-participating-e-commerce-stores)
+* [Who is the “E-commerce Order Approval” mini-app for?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#who-is-the-e-commerce-order-approval-mini-app-for)
 
 ### Which are the participating e-commerce stores?
 Currently, Eezee and Shopee are the pilot stores for the initiative. More stores are on the way. 
@@ -18,7 +18,7 @@ Your agency may not have subscribed to all the stores. Please approach your agen
 ### Where can I find the policy details for this initiative?
 Please refer to the Playbook or approach your agency representative for more information.
 
-### What is the E-commerce Order Approval mini-app for?
+### Who is the E-commerce Order Approval mini-app for?
 This mini-app is for Small Value Purchase approving officers (AOs). In this mini-app, they can approve/reject pending e-commerce order requests. They can also see their SVP approval history.
 
 Due to technical constraints, we cannot hide the approval mini-app from non-AOs. If you are not an AO, please ignore this mini-app.
