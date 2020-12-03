@@ -27,12 +27,14 @@ folders:
     subtitle: ""
     order:
       - My Account.md
-      - Resource.md
-      - Visitor.md
       - Business Card.md
-      - Transport Claim.md
-      - Leave.md
-      - Temperature Declaration.md
+      - Dental Claims.md
       - E-commerce Order.md
+      - Leave.md
+      - Medical Bills and Claims.md
+      - Resource.md
+      - Temperature Declaration.md
+      - Transport Claim.md
+      - Visitor.md
       - Technical Support.md
       - Contact.md
