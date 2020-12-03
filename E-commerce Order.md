@@ -51,8 +51,9 @@ Please check the e-commerce’s corporate billing setup guide for more informati
 
 ### How do I set up corporate billing?
 Before you start, make sure you have:
-* A DWP mobile app account, and
-* An account on the participating e-commerce store.
+* A DWP mobile app account, 
+* An account on the participating e-commerce store, and
+* (Optional) Enabled push notifications for DWP Mobile for faster setup.
 
 The e-commerce account can be based on your personal email/phone number or a separate corporate account. Please check the e-commerce’s corporate billing setup guide for more information.
 
