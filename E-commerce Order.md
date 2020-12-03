@@ -53,7 +53,7 @@ Please check the e-commerce’s corporate billing setup guide for more informati
 Before you start, make sure you have:
 * A DWP mobile app account, 
 * An account on the participating e-commerce store, and
-* (Optional) Enabled push notifications for DWP Mobile for faster setup.
+* (Optional) [Turned on push notifications](https://mobilefaq.digitalworkplace.gov.sg/technical%20support#3-push-notification) for DWP Mobile for faster setup and be notified of order updates.
 
 The e-commerce account can be based on your personal email/phone number or a separate corporate account. Please check the e-commerce’s corporate billing setup guide for more information.
 
