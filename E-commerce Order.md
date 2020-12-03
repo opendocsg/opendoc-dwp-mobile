@@ -28,9 +28,14 @@ Due to technical constraints, we cannot hide the approval mini-app from non-AOs.
 * [Can I set up corporate billing on any e-commerce store?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-set-up-corporate-billing-on-any-e-commerce-store)
 * [Which email address do I use to sign up for an account with e-commerce?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#which-email-address-do-i-use-to-sign-up-for-an-account-with-e-commerce)
 * [How do I set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-corporate-billing)
+* * [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
 * [Why do I need to download the DWP Mobile app to set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#why-do-i-need-to-download-the-dwp-mobile-app-to-set-up-corporate-billing)
-* [Which email address do I enter at the corporate billing setup page?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html)
-* [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
+* [I did not receive a push notification that asks me to authenticate the corporate billing request.](e-commerce%20order.html#i-did-not-receive-a-push-notification-that-asks-me-to-authenticate-the-corporate-billing-request)
+* [The app tells me that my corporate billing request has expired.](e-commerce%20order.html#the-app-tells-me-that-my-corporate-billing-request-has-expired)
+* [I cannot see the pending corporate billing request in the Accounts page.](e-commerce%20order.html#i-cannot-see-the-pending-corporate-billing-request-in-the-accounts-page)
+* [The app tells me that the corporate billing setup was successful, but I do not see the corporate billing account in the Accounts page.](e-commerce%20order.html#the-app-tells-me-that-the-corporate-billing-setup-was-successful-but-i-do-not-see-the-corporate-billing-account-in-the-accounts-page)
+* [If I have multiple work profiles, which agency will my corporate billing account be tied to?](e-commerce%20order.html#if-i-have-multiple-work-profiles-which-agency-will-my-corporate-billing-account-be-tied-to)
+
 
 ### Can I set up corporate billing on any e-commerce store?
 Nope, you can only set up corporate billing on participating e-commerce stores that your agency has subscribed to. Please approach your agency representative for more information.
