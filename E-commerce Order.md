@@ -32,7 +32,6 @@ Due to technical constraints, we cannot hide the approval mini-app from non-AOs.
 * [Which email address do I use to sign up for an account with e-commerce?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#which-email-address-do-i-use-to-sign-up-for-an-account-with-e-commerce)
 * [How do I set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-corporate-billing)
 * [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
-* [Why do I need to download the DWP Mobile app to set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#why-do-i-need-to-download-the-dwp-mobile-app-to-set-up-corporate-billing)
 * [I did not receive a push notification that asks me to authenticate the corporate billing request.](/e-commerce%20order.html#i-did-not-receive-a-push-notification-that-asks-me-to-authenticate-the-corporate-billing-request)
 * [The app tells me that my corporate billing request has expired.](/e-commerce%20order.html#the-app-tells-me-that-my-corporate-billing-request-has-expired)
 * [I cannot see the pending corporate billing request in the Accounts page.](/e-commerce%20order.html#i-cannot-see-the-pending-corporate-billing-request-in-the-accounts-page)
@@ -90,10 +89,6 @@ This may happen due to the following reasons:
 * It could be a typo for your email. Please check the email entered and try again.
 * Your agency may not have subscribed to this mall. Please check with your agency for more information.
 * There was an issue linking the corporate billing to your e-commerce account or work email. Please contact the e-commerce store or agency helpdesk for help.
-
-### Why do I need to download the DWP Mobile app to set up corporate billing?
-For security reasons, you need to authenticate the corporate billing request using the app. Thank you for helping to keep government services safe and secure!
-
 
 ### I did not receive a push notification that asks me to authenticate the corporate billing request.
 This may have happened because:
@@ -179,9 +174,9 @@ The cost centre and approving officer fields are pre-filled based on the approva
 ### What is the difference between auto-routing and manual routing?
 The routing options affect the post-checkout process of your order.
 
-**Auto** - The order will be sent to the approving officer in your agency approval settings. This happens immediately after checkout.
+**Auto** - After checkout, the order will be sent to the approving officer in your agency approval settings. 
 
-**Manual** - The order will be sent to you via DWP mobile. You will need to [send the order to your approving officer](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-send-my-order-to-the-approving-officer-for-approval) manually in the Details page.
+**Manual** - After checkout, the order will be sent to you via DWP mobile. You will need to [send the order to your approving officer](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-send-my-order-to-the-approving-officer-for-approval) manually in the Details page.
 
 ### Can I change my agency approval settings after the initial setup?
 Yes, you can change your approval settings in the E-commerce Order mini-app.
