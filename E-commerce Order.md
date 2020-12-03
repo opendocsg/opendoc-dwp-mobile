@@ -338,7 +338,7 @@ You can only change item quantities and delivery addresses in the e-commerce sto
 
 ## 7. Cancel order
 * [How do I cancel my order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-cancel-my-order)
-* [I cannot find the ‘Cancel order’ button at the bottom of the order details.](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-cannot-find-the-cancel-order-button-at-the-bottom-of-the-order-details)
+* [I cannot find the "Cancel order" button at the bottom of the order details.](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-cannot-find-the-cancel-order-button-at-the-bottom-of-the-order-details)
 
 ### How do I cancel my order?
 You can cancel orders through the E-commerce Order mini-app or the e-commerce store.
@@ -351,7 +351,7 @@ From the E-commerce Order mini-app:
 
 If order cancellation is successful, you will see a success page with the title **Order cancelled**.
 
-### I cannot find the ‘Cancel order’ button at the bottom of the order details.
+### I cannot find the "Cancel order" button at the bottom of the order details.
 You can only cancel orders using the mini-app if the order status is:
 * Pending Submission, or
 * Pending Approval.
