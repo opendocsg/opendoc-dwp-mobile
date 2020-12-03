@@ -6,9 +6,9 @@ If you are a **buyer** using the **E-commerce Order mini-app**, refer to section
 If you are an approving officer using the **E-commerce Order Approval** mini-app, refer to **section 9**.
 
 ## 1. About this initiative
-* [Which are the participating e-commerce stores?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#which-are-the-participating-e-commerce-stores)
-* [Where can I find the policy details for this initiative?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-find-the-policy-details-for-this-initiative)
-* [Who is the “E-commerce Order Approval” mini-app for?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#who-is-the-e-commerce-order-approval-mini-app-for)
+* [Which are the participating e-commerce stores?](/e-commerce%20order.html#which-are-the-participating-e-commerce-stores)
+* [Where can I find the policy details for this initiative?](/e-commerce%20order.html#where-can-i-find-the-policy-details-for-this-initiative)
+* [Who is the “E-commerce Order Approval” mini-app for?](/e-commerce%20order.html#who-is-the-e-commerce-order-approval-mini-app-for)
 
 ### Which are the participating e-commerce stores?
 Currently, Eezee and Shopee are the pilot stores for the initiative. More stores are on the way. 
