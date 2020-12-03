@@ -62,6 +62,8 @@ The e-commerce account can be based on your personal email/phone number or a sep
 2. Enter your **work email**, i.e. Singapore Public Service official email address. It usually ends with .gov.sg, but may differ for some agencies.
 3. If you see the picture below, continue to **Part 2**. [Having issues?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
 
+![Set up corporate billing screen](/assets/img_svp_4.png)
+
 **Part 2: Authenticate using DWP Mobile**
 
 Check if you have received a push notification on your mobile telling you to authenticate the corporate billing request.
