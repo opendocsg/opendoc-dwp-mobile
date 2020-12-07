@@ -47,15 +47,13 @@ It depends on the e-commerce mall you are signing up for.
 
 Some malls allow their users to use their personal account for corporate purchases. Others may need users to sign up for a separate corporate account using their work email.
 
-Please check the e-commerce’s corporate billing setup guide for more information.
-
 ### How do I set up corporate billing?
 Before you start, make sure you have:
 * A DWP mobile app account, 
 * An account on the participating e-commerce store, and
 * (Optional) [Turned on push notifications](https://mobilefaq.digitalworkplace.gov.sg/technical%20support#3-push-notification) for DWP Mobile for faster setup and be notified of order updates.
 
-The e-commerce account can be based on your personal email/phone number or a separate corporate account. Please check the e-commerce’s corporate billing setup guide for more information.
+The e-commerce account can be based on your personal email/phone number or a separate corporate account. 
 
 **Part 1: Enter work email in e-commerce store**
 1. Find the corporate billing setup option in the store. You can refer to the store's corporate billing setup guide.
