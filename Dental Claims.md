@@ -11,10 +11,10 @@ You are eligible for subsidised treatment at government dental clinics.
 
 
 ## CPW/CWM Medical Scheme
-This is the **Co-Payment on Ward Charges Scheme (CPW) / Co-payment Ward Medical (CWM)**
- 
- ### Dental Benefits
- 
+This is the **Co-Payment on Ward Charges Scheme (CPW) / Co-payment Ward Medical (CWM).**
+
+
+### Dental Benefits
 Up to 85% of the cost of each visit will be subsidised (up to a maximum of $120 per year).
 
 -----
