@@ -38,7 +38,7 @@ folders:
       - Visitor.md
       - Technical Support.md
       - Contact.md
-  - name: /
+  - name: /Test
     title: Test
     subtitle: "Test folder"
     order:
