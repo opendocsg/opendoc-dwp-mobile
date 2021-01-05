@@ -38,5 +38,8 @@ folders:
       - Visitor.md
       - Technical Support.md
       - Contact.md
-      - test
-        - /test/Test Page.md
+  - name: /
+    title: Test
+    subtitle: "Test folder"
+    order:
+      - Test Page.md
