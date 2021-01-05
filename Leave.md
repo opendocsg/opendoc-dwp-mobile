@@ -1,4 +1,4 @@
-# Leave
+# HRKiosk - Leave
 
 Leave is part of the module offerings under HRKiosk service. It is available for agencies who have subscribed to the HRKiosk service. If your agency is interested, please head to digitalworkplace.gov.sg (Intranet link) to contact the respective product manager.
 
