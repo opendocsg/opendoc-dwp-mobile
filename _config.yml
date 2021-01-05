@@ -42,4 +42,4 @@ folders:
     title: Test
     subtitle: ""
     order:
-      - Test Page.md
+      - /test/Test Page.md
