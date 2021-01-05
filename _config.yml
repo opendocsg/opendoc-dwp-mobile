@@ -38,8 +38,8 @@ folders:
       - Visitor.md
       - Technical Support.md
       - Contact.md
-  - name: /Test
+  - name: /Test/
     title: Test
     subtitle: ""
     order:
-      - /Test Page.md
+      - /Test/Test Page.md
