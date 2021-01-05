@@ -40,6 +40,6 @@ folders:
       - Contact.md
   - name: /Test
     title: Test
-    subtitle: "Test folder"
+    subtitle: ""
     order:
-      - /Test/Test Page.md
+      - My Account.md
