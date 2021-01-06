@@ -8,7 +8,7 @@ If you are an **approving officer** using the **E-commerce Order Approval** mini
 ## 1. About this initiative
 * [Which are the participating e-commerce stores?](/e-commerce%20order.html#which-are-the-participating-e-commerce-stores)
 * [Where can I find the policy details for this initiative?](/e-commerce%20order.html#where-can-i-find-the-policy-details-for-this-initiative)
-* [What's the difference between E-commerce Order and E-commerce Order Approval mini-apps?](//e-commerce%20order.html#whats-the-difference-between-e-commerce-order-and-e-commerce-order-approval-mini-apps)
+* [What's the difference between E-commerce Order and E-commerce Order Approval mini-apps?](/e-commerce%20order.html#whats-the-difference-between-e-commerce-order-and-e-commerce-order-approval-mini-apps)
 
 ### Which are the participating e-commerce stores?
 Currently, Eezee and Shopee are the pilot stores for the initiative. More stores are on the way. 
