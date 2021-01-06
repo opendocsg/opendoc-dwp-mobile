@@ -1,4 +1,4 @@
-##About this initiative
+# About this initiative
 ### Which are the participating e-commerce stores?
 Currently, Eezee and Shopee are the pilot stores for the initiative. More stores are on the way. 
 
