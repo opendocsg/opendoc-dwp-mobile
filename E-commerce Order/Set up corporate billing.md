@@ -1,4 +1,4 @@
-# Set up corporate billing
+## Set up corporate billing
 ### Can I set up corporate billing on any e-commerce store?
 Nope, you can only set up corporate billing on participating e-commerce stores that your agency has subscribed to. Please approach your agency representative for more information.
 
