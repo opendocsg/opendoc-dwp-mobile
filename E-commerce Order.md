@@ -28,16 +28,15 @@ Due to technical constraints, we cannot hide the approval mini-app from non-AOs.
 
 ## 2. Set up corporate billing
 
-* [Can I set up corporate billing on any e-commerce store?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-set-up-corporate-billing-on-any-e-commerce-store)
-* [Which email address do I use to sign up for an account with e-commerce?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#which-email-address-do-i-use-to-sign-up-for-an-account-with-e-commerce)
-* [How do I set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-corporate-billing)
-* [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
+* [Can I set up corporate billing on any e-commerce store?](/e-commerce%20order.html#can-i-set-up-corporate-billing-on-any-e-commerce-store)
+* [Which email address do I use to sign up for an account with e-commerce?](/e-commerce%20order.html#which-email-address-do-i-use-to-sign-up-for-an-account-with-e-commerce)
+* [How do I set up corporate billing?](/e-commerce%20order.html#how-do-i-set-up-corporate-billing)
+* [I could not set up corporate billing with my work email. Why?](/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
 * [I did not receive a push notification that asks me to authenticate the corporate billing request.](/e-commerce%20order.html#i-did-not-receive-a-push-notification-that-asks-me-to-authenticate-the-corporate-billing-request)
 * [The app tells me that my corporate billing request has expired.](/e-commerce%20order.html#the-app-tells-me-that-my-corporate-billing-request-has-expired)
 * [I cannot see the pending corporate billing request in the Accounts page.](/e-commerce%20order.html#i-cannot-see-the-pending-corporate-billing-request-in-the-accounts-page)
 * [The app tells me that the corporate billing setup was successful, but I do not see the corporate billing account in the Accounts page.](/e-commerce%20order.html#the-app-tells-me-that-the-corporate-billing-setup-was-successful-but-i-do-not-see-the-corporate-billing-account-in-the-accounts-page)
 * [If I have multiple work profiles, which agency will my corporate billing account be tied to?](/e-commerce%20order.html#if-i-have-multiple-work-profiles-which-agency-will-my-corporate-billing-account-be-tied-to)
-
 
 ### Can I set up corporate billing on any e-commerce store?
 Nope, you can only set up corporate billing on participating e-commerce stores that your agency has subscribed to. Please approach your agency representative for more information.
@@ -136,15 +135,14 @@ Some buyers may be able to procure for multiple agencies. This happens if they h
 
 ![How settings look like if you have multiple agencies](/assets/img_svp_5.png)
 
-* [How do I set up my agency approval settings?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-my-agency-approval-settings)
-* [Do I have to set up my agency approval settings every time I set up corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#do-i-have-to-set-up-my-agency-approval-settings-every-time-i-set-up-corporate-billing)
-* [What if I do not set up my agency approval settings at all?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-if-i-do-not-set-up-my-agency-approval-settings-at-all)
-* [I noticed that the cost centre and approving officer are pre-filled. Are those the right values?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-noticed-that-the-cost-centre-and-approving-officer-are-pre-filled-are-those-the-right-values)
-* [What is the difference between auto-routing and manual routing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-is-the-difference-between-auto-routing-and-manual-routing)
-* [Can I change my agency approval settings after the initial setup?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-change-my-agency-approval-settings-after-the-initial-setup)
-* [The app tells me that my cost centre/approving officer is not valid anymore.](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#the-app-tells-me-that-my-cost-centreapproving-officer-is-not-valid-anymore)
-* [Can I have different approval settings for different corporate billing accounts?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-have-different-approval-settings-for-different-corporate-billing-accounts)
-
+* [How do I set up my agency approval settings?](/e-commerce%20order.html#how-do-i-set-up-my-agency-approval-settings)
+* [Do I have to set up my agency approval settings every time I set up corporate billing?](/e-commerce%20order.html#do-i-have-to-set-up-my-agency-approval-settings-every-time-i-set-up-corporate-billing)
+* [What if I do not set up my agency approval settings at all?](/e-commerce%20order.html#what-if-i-do-not-set-up-my-agency-approval-settings-at-all)
+* [I noticed that the cost centre and approving officer are pre-filled. Are those the right values?](/e-commerce%20order.html#i-noticed-that-the-cost-centre-and-approving-officer-are-pre-filled-are-those-the-right-values)
+* [What is the difference between auto-routing and manual routing?](/e-commerce%20order.html#what-is-the-difference-between-auto-routing-and-manual-routing)
+* [Can I change my agency approval settings after the initial setup?](/e-commerce%20order.html#can-i-change-my-agency-approval-settings-after-the-initial-setup)
+* [The app tells me that my cost centre/approving officer is not valid anymore.](/e-commerce%20order.html#the-app-tells-me-that-my-cost-centreapproving-officer-is-not-valid-anymore)
+* [Can I have different approval settings for different corporate billing accounts?](/e-commerce%20order.html#can-i-have-different-approval-settings-for-different-corporate-billing-accounts)
 
 ### How do I set up my agency approval settings?
 **Option 1. After you set up corporate billing for the first time**
@@ -199,7 +197,6 @@ Note: If either cost centre or approving officer are invalid, orders you check o
 Nope. Approval settings are tied to your agency, and not to the corporate billing account.
 
 ![](/assets/img_svp_3.png)
-
 
 ## 4. Checkout with corporate billing
 * [How do I check out with corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-check-out-with-corporate-billing)

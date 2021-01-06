@@ -28,7 +28,7 @@ The transport claim and leave functionalities on the existing My HR Kiosk mobile
 
 This means that you will just need to access the DWP Mobile app for all available work functions on mobile.
 
-### Do my agency still need to subscribe to HRKiosk?
+### Does my agency still need to subscribe to HRKiosk?
 Yes, agencies who are on ACE or standalone HR systems will need to subscribe to HRKiosk in order for the mobile functionalities to be available on DWP Mobile. For more clarification, please head to digitalworkplace.gov.sg (Intranet link) to contact the respective product manager.
 
 
