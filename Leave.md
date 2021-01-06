@@ -15,6 +15,9 @@ If yes, please go to Settings and Send Feedback to us. Please describe the probl
 ### Can I view my leave balance?
 This function is not available now. The product team for HRKiosk service is working with the respective HR systems to enable the function. Please await further announcement on this.
 
+### I plan to embark on No-Pay Leave. What do I need to know?
+
+
 ## 2. Withdraw leave
 ### Can I withdraw leave application?
 No, you cannot withdraw leave application from mobile now. Please access your HR system to perform the withdrawal.
