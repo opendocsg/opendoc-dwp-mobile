@@ -16,7 +16,7 @@ If yes, please go to Settings and Send Feedback to us. Please describe the probl
 This function is not available now. The product team for HRKiosk service is working with the respective HR systems to enable the function. Please await further announcement on this.
 
 ### I plan to embark on No-Pay Leave. What do I need to know?
-Please read and agree with the Terms and Conditions for No-Pay Leave before applying.
+Please read and agree with the [Terms and Conditions for No-Pay Leave](/leave/npl-terms-and-conditions.html) before applying.
 
 ## 2. Withdraw leave
 ### Can I withdraw leave application?
