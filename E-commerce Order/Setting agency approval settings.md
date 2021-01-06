@@ -1,3 +1,4 @@
+## Setting agency approval settings
 ### How do I set up my agency approval settings?
 **Option 1. After you set up corporate billing for the first time**
 
