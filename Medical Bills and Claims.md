@@ -1,5 +1,5 @@
 # Medical Bills and Claims
-## 1. FAW Medical Scheme
+## FAW Medical Scheme
 This is the **Fixed Amount on Ward Charges Scheme.**
 ### Outpatient Benefits
 Free treatment at government healthcare institutions. <br>
@@ -11,7 +11,7 @@ Subsidised ward charges based on 1% of your monthly basic pension, depending on 
 
 -----
 
-## 2. CPW/CWM Medical Scheme
+## CPW/CWM Medical Scheme
 This is the **Co-Payment on Ward Charges Scheme (CPW) / Co-payment Ward Medical (CWM)**
 
 ### Outpatient Benefits
@@ -24,7 +24,7 @@ Other hospital expenses will be fully subsidised.
 
 -----
 
-## 3. CCS Medical Scheme
+## CCS Medical Scheme
 This is the **Comprehensive CoPayment Scheme (CCS).**
 
 ### Outpatient Benefits
@@ -36,7 +36,7 @@ Up to 85% of your medical expenses and 60% of your dependants’ medical bills w
 
 -----
 
-## 4. MSO Medical Scheme
+## MSO Medical Scheme
 This is the **Medisave Cum Subsidised Outpatient Scheme (MSO).**
 
 ### Outpatient Benefits
