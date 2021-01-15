@@ -6,9 +6,6 @@ If you are a **buyer** using the **E-commerce Order** mini-app, refer to section
 If you are an **approving officer** using the **E-commerce Order Approval** mini-app, refer to **section 9**.
 
 ## 1. About this initiative
-* [Which are the participating e-commerce stores?](/e-commerce%20order.html#which-are-the-participating-e-commerce-stores)
-* [Where can I find the policy details for this initiative?](/e-commerce%20order.html#where-can-i-find-the-policy-details-for-this-initiative)
-* [What's the difference between E-commerce Order and E-commerce Order Approval mini-apps?](/e-commerce%20order.html#whats-the-difference-between-e-commerce-order-and-e-commerce-order-approval-mini-apps)
 
 ### Which are the participating e-commerce stores?
 Currently, Eezee and Shopee are the pilot stores for the initiative. More stores are on the way. 
@@ -16,7 +13,7 @@ Currently, Eezee and Shopee are the pilot stores for the initiative. More stores
 Your agency may not have subscribed to all the stores. Please approach your agency representative for more information.
 
 ### Where can I find the policy details for this initiative?
-Please refer to the Playbook or approach your agency representative for more information.
+Please refer to the playbook or approach your agency representative for more information.
 
 ### What's the difference between E-commerce Order and E-commerce Order Approval mini-apps?
 
@@ -27,16 +24,6 @@ Please refer to the Playbook or approach your agency representative for more inf
 Due to technical constraints, we cannot hide the approval mini-app from non-AOs. If you are not an AO, please ignore this mini-app.
 
 ## 2. Set up corporate billing
-
-* [Can I set up corporate billing on any e-commerce store?](/e-commerce%20order.html#can-i-set-up-corporate-billing-on-any-e-commerce-store)
-* [Which email address do I use to sign up for an account with e-commerce?](/e-commerce%20order.html#which-email-address-do-i-use-to-sign-up-for-an-account-with-e-commerce)
-* [How do I set up corporate billing?](/e-commerce%20order.html#how-do-i-set-up-corporate-billing)
-* [I could not set up corporate billing with my work email. Why?](/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
-* [I did not receive a push notification that asks me to authenticate the corporate billing request.](/e-commerce%20order.html#i-did-not-receive-a-push-notification-that-asks-me-to-authenticate-the-corporate-billing-request)
-* [The app tells me that my corporate billing request has expired.](/e-commerce%20order.html#the-app-tells-me-that-my-corporate-billing-request-has-expired)
-* [I cannot see the pending corporate billing request in the Accounts page.](/e-commerce%20order.html#i-cannot-see-the-pending-corporate-billing-request-in-the-accounts-page)
-* [The app tells me that the corporate billing setup was successful, but I do not see the corporate billing account in the Accounts page.](/e-commerce%20order.html#the-app-tells-me-that-the-corporate-billing-setup-was-successful-but-i-do-not-see-the-corporate-billing-account-in-the-accounts-page)
-* [If I have multiple work profiles, which agency will my corporate billing account be tied to?](/e-commerce%20order.html#if-i-have-multiple-work-profiles-which-agency-will-my-corporate-billing-account-be-tied-to)
 
 ### Can I set up corporate billing on any e-commerce store?
 Nope, you can only set up corporate billing on participating e-commerce stores that your agency has subscribed to. Please approach your agency representative for more information.
@@ -57,7 +44,7 @@ The e-commerce account can be based on your personal email/phone number or a sep
 **Part 1: Enter work email in e-commerce store**
 1. Find the corporate billing setup option in the store. You can refer to the store's corporate billing setup guide.
 2. Enter your **work email**, i.e. Singapore Public Service official email address. It usually ends with .gov.sg, but may differ for some agencies.
-3. If you see the picture below, continue to **Part 2**. [Having issues?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
+3. If you see the picture below, continue to **Part 2**. [Having issues setting up corporate billing at e-commerce store?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
 
 ![Set up corporate billing screen](/assets/img_svp_7.png)
 
@@ -135,15 +122,6 @@ Some buyers may be able to procure for multiple agencies. This happens if they h
 
 ![How settings look like if you have multiple agencies](/assets/img_svp_5.png)
 
-* [How do I set up my agency approval settings?](/e-commerce%20order.html#how-do-i-set-up-my-agency-approval-settings)
-* [Do I have to set up my agency approval settings every time I set up corporate billing?](/e-commerce%20order.html#do-i-have-to-set-up-my-agency-approval-settings-every-time-i-set-up-corporate-billing)
-* [What if I do not set up my agency approval settings at all?](/e-commerce%20order.html#what-if-i-do-not-set-up-my-agency-approval-settings-at-all)
-* [I noticed that the cost centre and approving officer are pre-filled. Are those the right values?](/e-commerce%20order.html#i-noticed-that-the-cost-centre-and-approving-officer-are-pre-filled-are-those-the-right-values)
-* [What is the difference between auto-routing and manual routing?](/e-commerce%20order.html#what-is-the-difference-between-auto-routing-and-manual-routing)
-* [Can I change my agency approval settings after the initial setup?](/e-commerce%20order.html#can-i-change-my-agency-approval-settings-after-the-initial-setup)
-* [The app tells me that my cost centre/approving officer is not valid anymore.](/e-commerce%20order.html#the-app-tells-me-that-my-cost-centreapproving-officer-is-not-valid-anymore)
-* [Can I have different approval settings for different corporate billing accounts?](/e-commerce%20order.html#can-i-have-different-approval-settings-for-different-corporate-billing-accounts)
-
 ### How do I set up my agency approval settings?
 **Option 1. After you set up corporate billing for the first time**
 
@@ -185,13 +163,13 @@ Yes, you can change your approval settings in the E-commerce Order mini-app.
 
 ### The app tells me that my cost centre/approving officer is not valid anymore.
 These errors show when:
-* Your agency do not use the cost centre anymore;
+* Your agency do not use the cost centre anymore,
 * Your approving officer is not in charge of this cost centre anymore, and/or
 * Your approving officer has left the agency.
 
 When this happens, **select another** cost centre or approving officer for your agency approval settings.
 
-Note: If either cost centre or approving officer are invalid, orders you check out for that agency will be **sent to you first**, even if auto-approval is on.
+Note: If either cost centre or approving officer are invalid, orders you check out for that agency will be **sent to you first**, even if auto-approval was previously turned on.
 
 ### Can I have different approval settings for different corporate billing accounts?
 Nope. Approval settings are tied to your agency, and not to the corporate billing account.
@@ -199,14 +177,6 @@ Nope. Approval settings are tied to your agency, and not to the corporate billin
 ![](/assets/img_svp_3.png)
 
 ## 4. Checkout with corporate billing
-* [How do I check out with corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-check-out-with-corporate-billing)
-* [What happens after checkout? Do I need to do anything?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-happens-after-checkout-do-i-need-to-do-anything)
-* [How do I send my order to the approving officer for approval?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-send-my-order-to-the-approving-officer-for-approval)
-* [How do I change the cost centre for the order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-change-the-cost-centre-for-the-order)
-* [How do I send the order to a different approving officer?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-send-the-order-to-a-different-approving-officer)
-* [How does the order expiry time affect me in procurement?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-does-the-order-expiry-time-affect-me-in-procurement)
-* [Where can I see the expiry time for my order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-see-the-expiry-time-for-my-order)
-* [What is the exact expiry duration for carts (e.g. X mins)?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-is-the-exact-expiry-duration-for-carts-eg-x-mins)
 
 ### How do I check out with corporate billing?
 Make sure that you have already [set up corporate billing](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-corporate-billing) for smoother checkout process.
@@ -259,11 +229,6 @@ The e-commerce store determines the expiry duration. Please approach the store t
 
 
 ## 5. View orders
-* [Where can I view my order statuses?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-view-my-order-statuses)
-* [What are the different order statuses in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-are-the-different-order-statuses-in-the-mini-app)
-* [There were some changes to my order after checkout. How would these changes appear in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#there-were-some-changes-to-my-order-after-checkout-how-would-these-changes-appear-in-the-mini-app)
-* [What is the difference between return and refund?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-is-the-difference-between-return-and-refund)
-* [Where can I find information about shipping in the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#where-can-i-find-information-about-shipping-in-the-mini-app)
 
 ### Where can I view my order statuses?
 From the E-commerce Order mini-app, go to the **Orders** tab to see the list of orders you made. The order statuses are displayed on the right. You can tap in to know more about the status.
@@ -311,10 +276,6 @@ The mini-app only shows the delivery address. For shipping/delivery statuses and
 ## 6. Amend order approval details
 After sending the order for approval, you can change the cost centre and approving officer for the order within a designated period.
 
-* [When can I amend order approval details?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#when-can-i-amend-order-approval-details)
-* [How do I amend my order approval details?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-amend-my-order-approval-details)
-* [Can I change item quantities and delivery addresses on the mini-app?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-change-item-quantities-and-delivery-addresses-on-the-mini-app)
-
 ### When can I amend order approval details?
 You can only amend approval details on orders using the mini-app if the order status is:
 * Pending Submission, or
@@ -333,8 +294,6 @@ From the E-commerce Order mini-app:
 You can only change item quantities and delivery addresses in the e-commerce store. The changes will be reflected in the mini-app.
 
 ## 7. Cancel order
-* [How do I cancel my order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-cancel-my-order)
-* [I cannot find the "Cancel order" button at the bottom of the order details.](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-cannot-find-the-cancel-order-button-at-the-bottom-of-the-order-details)
 
 ### How do I cancel my order?
 You can cancel orders through the E-commerce Order mini-app or the e-commerce store.
@@ -355,9 +314,6 @@ You can only cancel orders using the mini-app if the order status is:
 For approved orders, please cancel them at the e-commerce store. Cancellations are subject to the store's terms and conditions.
 
 ## 8. Delete corporate billing
-* [How do I delete corporate billing for an e-commerce account?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-delete-corporate-billing-for-an-e-commerce-account)
-* [What will happen to my e-commerce corporate account when I delete corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#what-will-happen-to-my-e-commerce-corporate-account-when-i-delete-corporate-billing)
-* [Can I still set up corporate billing at the same e-commerce site after I delete corporate billing?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-still-set-up-corporate-billing-at-the-same-e-commerce-site-after-i-delete-corporate-billing)
 
 ### How do I delete corporate billing for an e-commerce account?
 From the E-commerce Order mini-app:
@@ -381,10 +337,6 @@ Yes you can, as long as your work email is not tied to an existing e-commerce ac
 ## 9. For approving officers
 These FAQs apply for approving officers that use the **E-commerce Order Approval** mini-app.
 
-* [How do I approve an order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-approve-an-order)
-* [How do I reject an order?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-reject-an-order)
-* [Why do some orders have a "Cancelled" or "Expired" status in the History tab?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#why-do-some-orders-have-a-cancelled-or-expired-status-in-the-history-tab)
-
 ### How do I approve an order?
 From the E-commerce Order Approval mini-app:
 1. In the **Pending** tab, tap on the order you want to approve.
@@ -407,21 +359,10 @@ Orders will have the **Expired** status if it was not approved/rejected within a
 ## 10. Help
 Do look through the section(s) related to your question to see if we have answered it.
 
-Here are some commonly faced issues:
-
-* [I could not set up corporate billing with my work email. Why?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
-* [I did not receive a push notification that asks me to authenticate the corporate billing request.](/e-commerce%20order.html#i-did-not-receive-a-push-notification-that-asks-me-to-authenticate-the-corporate-billing-request)
-* [The app tells me that my corporate billing request has expired.](/e-commerce%20order.html#the-app-tells-me-that-my-corporate-billing-request-has-expired)
-* [I cannot see the pending corporate billing request in the Accounts page.](/e-commerce%20order.html#i-cannot-see-the-pending-corporate-billing-request-in-the-accounts-page)
-* [The app tells me that the corporate billing setup was successful, but I do not see the corporate billing account in the Accounts page.](/e-commerce%20order.html#the-app-tells-me-that-the-corporate-billing-setup-was-successful-but-i-do-not-see-the-corporate-billing-account-in-the-accounts-page)
-* [The app tells me that my cost centre/approving officer is not valid anymore.](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#the-app-tells-me-that-my-cost-centreapproving-officer-is-not-valid-anymore)
-
-If you cannot find an answer to your question, please refer to the table below:
+If you cannot find an answer to your question, refer to the table below:
 
 | Questions regarding... | Who to contact |
 | -------- | -------- |
 | Policy| Your agency |
-| Changing order approval| Your agency's AFM helpdesk | 
 | Shipping/Delivery| E-commerce store | 
-
 
