@@ -1,9 +1,13 @@
 # E-commerce Order
-This initiative is currently in its **pilot phase**. Only agencies in the pilot phase will see the mini-apps.
+### Buying things for work can be as easy as online shopping in our personal lives.  
+Say hello to the **Seamless E-commerce Purchase initiative**, a project  by Ministry of Finance and Government Technology Agency. This initiative enables public officers to make small value purchases (SVPs) in online malls by checking out with **corporate billing**.  
 
-If you are a **buyer** using the **E-commerce Order** mini-app, refer to sections **2 to 8**.
+Here's how it works:
 
-If you are an **approving officer** using the **E-commerce Order Approval** mini-app, refer to **section 9**.
+This initiative is currently in its **pilot** phase. Only agencies in the pilot phase will see the mini-apps.
+
+* If you are a **buyer** using the **E-commerce Order** mini-app, refer to sections **2 to 8**. 
+* If you are an **approving officer** using the **E-commerce Order Approval** mini-app, refer to **section 9**.
 
 ## 1. About this initiative
 
