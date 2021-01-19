@@ -1,15 +1,18 @@
 # E-commerce Order
+
+## 1. About this initiative
+
 ### Buying things for work can be as easy as online shopping in our personal lives.  
-Say hello to the **Seamless E-commerce Purchase initiative**, a project  by Ministry of Finance and Government Technology Agency. This initiative enables public officers to make small value purchases (SVPs) in online malls by checking out with **corporate billing**.  
+Say hello to the **Seamless E-commerce Purchase initiative**, a project by Ministry of Finance and Government Technology Agency. With this initiative, public officers can make small value purchases (SVPs) in online malls by checking out with corporate billing.  
 
 Here's how it works:
+
+![](/assets/img_svp_8.png)
 
 This initiative is currently in its **pilot** phase. Only agencies in the pilot phase will see the mini-apps.
 
 * If you are a **buyer** using the **E-commerce Order** mini-app, refer to sections **2 to 8**. 
 * If you are an **approving officer** using the **E-commerce Order Approval** mini-app, refer to **section 9**.
-
-## 1. About this initiative
 
 ### Which are the participating e-commerce stores?
 Currently, Eezee and Shopee are the pilot stores for the initiative. More stores are on the way. 
