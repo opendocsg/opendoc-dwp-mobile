@@ -1,4 +1,10 @@
 # E-commerce Order
+Buying things for work can be as easy as online shopping in your personal lives. Say hello to the Seamless E-commerce Purchase initiative
+
+
+
+
+
 This initiative is currently in its **pilot phase**. Only agencies in the pilot phase will see the mini-apps.
 
 If you are a **buyer** using the **E-commerce Order** mini-app, refer to sections **2 to 8**.
