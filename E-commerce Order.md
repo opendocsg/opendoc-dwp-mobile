@@ -1,6 +1,8 @@
 # E-commerce Order
 ### Buying things for work can be as easy as online shopping in our personal lives.  
-Say hello to the **Seamless E-commerce Purchase initiative**, brought to you by Ministry of Finance and Government Technology Agency. With this initiative, public officers can make small value purchases (SVPs) in online malls by checking out with **corporate billing**.  Here's how it works:
+Say hello to the **Seamless E-commerce Purchase initiative**, brought to you by Ministry of Finance and Government Technology Agency. With this initiative, public officers can make small value purchases (SVPs) in online malls by checking out with **corporate billing**.  
+
+Here's how it works:
 
 ![](/assets/img_svp_8.png)
 
