@@ -139,8 +139,6 @@ If you do not see **Proceed to setup**, it means that you have previously set th
 2. Confirm your approving officer and frequently used cost centre.
 3. Choose the routing option you prefer.
 4. Tap **Save Changes**. Your preferences will be updated.
-5. 
-**Method 2. Any time, at the Settings page**
 
 ### Do I have to set up my agency approval settings every time I set up corporate billing?
 Nope, it is a one-time setup per agency.
