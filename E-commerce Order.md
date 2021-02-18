@@ -132,11 +132,16 @@ Some buyers may be able to procure for multiple agencies. This happens if they h
 4. Choose the routing option you prefer.
 5. Tap **Submit**. Your preferences will be updated.
 
-If you do not see **Proceed to setup**, it means that you have previously set the approval settings for the agency. In this case, please refer to method 2.
+If you do not see **Proceed to setup**, it means that you have previously set the approval settings for the agency. In this case, please refer to [How to change agency approval settings](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-to-change-agency-approval-settings).
 
+### How to change agency approval settings
+
+1. Go to the **Settings** page and tap on the agency that you are changing settings for.
+2. Confirm your approving officer and frequently used cost centre.
+3. Choose the routing option you prefer.
+4. Tap **Save Changes**. Your preferences will be updated.
+5. 
 **Method 2. Any time, at the Settings page**
-
-Refer to [How to change agency approval settings](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-to-change-agency-approval-settings).
 
 ### Do I have to set up my agency approval settings every time I set up corporate billing?
 Nope, it is a one-time setup per agency.
@@ -153,13 +158,6 @@ The routing options affect the post-checkout process of your order.
 - **Auto:** After checkout, the order will be sent to the approving officer in your agency approval settings. 
 
 - **Manual:** After checkout, the order will be sent to you via DWP mobile. You will need to send the order to your approving officer manually in the details page of the order.
-
-### How to change agency approval settings
-
-1. Go to the **Settings** page and tap on the agency that you are changing settings for.
-2. Confirm your approving officer and frequently used cost centre.
-3. Choose the routing option you prefer.
-4. Tap **Save Changes**. Your preferences will be updated.
 
 ### The app told me that my cost centre/approving officer is not valid anymore.
 This happens when:
