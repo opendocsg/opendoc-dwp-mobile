@@ -83,7 +83,7 @@ This may be due to the following reasons:
 ### I did not receive a push notification that asks me to authenticate the corporate billing request.
 The push notifications for DWP Mobile may have been turned off for your phone. [See how you can turn on the notifications.](https://mobilefaq.digitalworkplace.gov.sg/Technical%20Support.html#3-push-notification)
 
-Note: if you did not receive a push notification, you can still [set up corporate billing](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-corporate-billing).
+Note: if you did not receive a push notification, you can still set up corporate billing.
 
 ### My corporate billing request has expired.
 You will need to set up corporate billing again at the e-commerce store again. 
@@ -105,13 +105,14 @@ This may be due to the following reasons:
 Tip: For a smoother setup process, ensure that your phone is ready at hand while setting up corporate billing.
 
 ### If I have multiple work profiles, which agency will my corporate billing account be tied to?
-It depends on the agency you select during corporate billing setup in the E-commerce Order mini-app.
+It depends on the agency you selected while setting up corporate billing in the E-commerce Order mini-app.
 
-1. Tap **Agency**.
-2. Choose the agency you want to tie the corporate billing account to.
-3. Tap **Yes**.
+1. During corporate billing setup, you will see a page with the message, **Authenticate this request?**
+2. Tap **Agency**.
+3. Choose the agency you want to tie the corporate billing account to.
+4. Tap **Yes** to confirm the corporate billing setup.
 
-Orders checked out using this corporate billing account will be tied to the agency you selected for the account.
+Orders checked out using this corporate billing account will be tied to the agency you selected.
 
 ## 3. Setting agency approval settings
 Your approval settings determine the approval process for your orders. This includes the cost centre, approving officer and approval routing options. 
@@ -125,17 +126,17 @@ Some buyers may be able to procure for multiple agencies. This happens if they h
 ### How to set agency approval settings
 **Method 1. After you set up corporate billing for the first time**
 
-In the corporate billing setup success page:
-1. Tap on the **Proceed to setup** button. 
-2. Select your approving officer and frequently used cost centre.
-3. Choose the routing option you prefer.
-4. Tap **Submit**. Your preferences will be updated.
+1. After setting up corporate billing successfully, you will see a page with the message, **Success!**. 
+2. Tap **Proceed to setup**. 
+3. Select your approving officer and frequently used cost centre.
+4. Choose the routing option you prefer.
+5. Tap **Submit**. Your preferences will be updated.
 
-If you do not see the Proceed to Setup button, it means that you have previously set the approval settings for the agency. In this case, see option 2 to know how to change your agency approval settings.
+If you do not see **Proceed to setup**, it means that you have previously set the approval settings for the agency. In this case, please refer to method 2.
 
 **Method 2. Any time, at the Settings page**
 
-Refer to [Can I change my agency approval settings after the initial setup?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-change-my-agency-approval-settings-after-the-initial-setup).
+Refer to [How to change agency approval settings](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-to-change-agency-approval-settings).
 
 ### Do I have to set up my agency approval settings every time I set up corporate billing?
 Nope, it is a one-time setup per agency.
@@ -153,8 +154,7 @@ The routing options affect the post-checkout process of your order.
 
 - **Manual:** After checkout, the order will be sent to you via DWP mobile. You will need to send the order to your approving officer manually in the details page of the order.
 
-### Can I change my agency approval settings after the initial setup?
-Yes, you can change your approval settings in the E-commerce Order mini-app.
+### How to change agency approval settings
 
 1. Go to the **Settings** page and tap on the agency that you are changing settings for.
 2. Confirm your approving officer and frequently used cost centre.
