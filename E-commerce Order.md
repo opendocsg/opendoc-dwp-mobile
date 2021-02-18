@@ -31,19 +31,11 @@ Due to technical constraints, we cannot hide the approval mini-app from non-AOs.
 
 ## 2. Set up corporate billing
 
-### Can I set up corporate billing on any e-commerce store?
-You can only set up corporate billing on **participating** e-commerce stores that your agency has subscribed to. Please approach your agency representative for more information.
-
-### Which email address do I use to sign up for an account with the store?
-It depends on the e-commerce store you are signing up for. 
-
-Some stores allow their users to use their personal account for corporate purchases. Others may need users to sign up for a separate corporate account using their work email.
-
 ### How to set up corporate billing
 Before you start, make sure you have:
-* A DWP mobile app account, 
-* An account on the participating e-commerce store, and
-* (Optional) [Turned on push notifications](https://mobilefaq.digitalworkplace.gov.sg/technical%20support#3-push-notification) for DWP Mobile for faster setup and be notified of order updates.
+* a DWP mobile app account;
+* an account on the participating e-commerce store; and
+* (optional) [turned on push notifications](https://mobilefaq.digitalworkplace.gov.sg/technical%20support#3-push-notification) for DWP Mobile for faster setup and be notified of order updates.
 
 The e-commerce account can be based on your personal email/phone number or a separate corporate account. 
 
@@ -59,20 +51,26 @@ The e-commerce account can be based on your personal email/phone number or a sep
 Check if you have received a push notification on your mobile telling you to authenticate the corporate billing request.
 
 If you received a push notification:
-1. Tap on the push notification.
-2. Tap **Yes**. When you see a success page, it means your corporate billing account has been added successfully. 
-3. (If you have not set up before) Tap **Proceed to setup** to set up your agency approval settings.
+1. Tap on the push notification. You will see a screen with the message, **Authenticate this request?**
+3. Tap **Yes**. If the authentication is successful, you will see a page with the message, **Success!**.
+4. (If you have not set up before) Tap **Proceed to setup** to set up your agency approval settings.
 
 If you did not receive a push notification:
 1. Open the E-commerce order mini-app.
 2. Tap **Accounts**.
-3. Tap on the corporate billing request.
-4. Tap **Yes**. 
-5. If the authentication is successful, you will see a page with the message, **Success!**
+3. Tap on the corporate billing request. You will see a screen with the message, **Authenticate this request?**
+4. Tap **Yes**. If the authentication is successful, you will see a page with the message, **Success!**.
 6. (If you have not set up before) Tap **Proceed to setup** to set up your agency approval settings.
 
 Tip: the corporate billing request expires in 2 minutes. If that happens, you will need to set up corporate billing again at the e-commerce store.
 
+### Can I set up corporate billing on any e-commerce store?
+You can only set up corporate billing on participating e-commerce stores that your agency has subscribed to. Please approach your agency representative for more information.
+
+### Which email address do I use to sign up for an account with the store?
+It depends on the e-commerce store you are signing up for. 
+
+Some stores allow their users to use their personal account for corporate purchases. Others may need users to sign up for a separate corporate account using their work email.
 
 ### I could not set up corporate billing with my work email address.
 
@@ -85,7 +83,7 @@ This may be due to the following reasons:
 ### I did not receive a push notification that asks me to authenticate the corporate billing request.
 The push notifications for DWP Mobile may have been turned off for your phone. [See how you can turn on the notifications.](https://mobilefaq.digitalworkplace.gov.sg/Technical%20Support.html#3-push-notification)
 
-If you did not receive a push notification, you can still [set up corporate billing](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-corporate-billing).
+Note: if you did not receive a push notification, you can still [set up corporate billing](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-corporate-billing).
 
 ### My corporate billing request has expired.
 You will need to set up corporate billing again at the e-commerce store again. 
@@ -94,20 +92,20 @@ Tip: corporate billing requests expire after 2 minutes. For a smoother setup pro
 
 ### I could not see the pending corporate billing request in the Accounts page.
 This may be due to the following reasons:
-* The Accounts page was not updated. Refresh the page by pulling down and releasing it. 
+* The Accounts page was not updated. Pull down the page and release to refresh the page.
 * Your corporate billing request has expired. You will have to set up corporate billing again.
 
-Tip: For a smoother setup process, ensure that your phone is ready at hand while you are setting up corporate billing.
+Tip: For a smoother setup process, ensure that your phone is ready at hand while setting up corporate billing.
 
 ### The app told me that the corporate billing setup was successful, but I did not see the corporate billing account in the Accounts page.
 This may be due to the following reasons:
-* The Accounts page was not updated. Refresh the page by pulling down and releasing it. 
+* The Accounts page was not updated. Pull down the page and release to refresh the page.
 * Your corporate billing request has expired. You will have to set up corporate billing again.
 
-Tip: For a smoother setup process, ensure that your phone is ready at hand while you are setting up corporate billing.
+Tip: For a smoother setup process, ensure that your phone is ready at hand while setting up corporate billing.
 
 ### If I have multiple work profiles, which agency will my corporate billing account be tied to?
-It depends on the agency you select during corporate billing setup in the E-commerce Order mini-app:
+It depends on the agency you select during corporate billing setup in the E-commerce Order mini-app.
 
 1. Tap **Agency**.
 2. Choose the agency you want to tie the corporate billing account to.
