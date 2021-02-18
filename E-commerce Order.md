@@ -124,7 +124,6 @@ Some buyers may be able to procure for multiple agencies. This happens if they h
 ![How settings look like if you have multiple agencies](/assets/img_svp_5.png)
 
 ### How to set agency approval settings
-**Method 1. After you set up corporate billing for the first time**
 
 1. After setting up corporate billing successfully, you will see a page with the message, **Success!**. 
 2. Tap **Proceed to setup**. 
