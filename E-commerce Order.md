@@ -5,14 +5,13 @@
 ### Buying things for work can be as easy as online shopping in our personal lives.  
 Say hello to the **Seamless E-commerce Purchase initiative**, a project by Ministry of Finance and Government Technology Agency. With this initiative, public officers can make small value purchases (SVPs) in online malls by checking out with corporate billing.  
 
-Here's how it works:
-
+How it works:
 ![](/assets/img_svp_8.png)
 
 This initiative is currently in its **pilot** phase. Only agencies in the pilot phase will see the mini-apps.
 
-* If you are a **buyer** using the **E-commerce Order** mini-app, refer to sections **2 to 8**. 
-* If you are an **approving officer** using the **E-commerce Order Approval** mini-app, refer to **section 9**.
+* If you are a **buyer** using the **E-commerce Order** mini-app, refer to sections 2 to 8. 
+* If you are an **approving officer** using the **E-commerce Order Approval** mini-app, refer to section 9.
 
 ### Which are the participating e-commerce stores?
 Currently, Eezee and Shopee are the pilot stores for the initiative. More stores are on the way. 
@@ -22,7 +21,7 @@ Your agency may not have subscribed to all the stores. Please approach your agen
 ### Where can I find the policy details for this initiative?
 Please refer to the playbook or approach your agency representative for more information.
 
-### What's the difference between E-commerce Order and E-commerce Order Approval mini-apps?
+### What is the difference between E-commerce Order and E-commerce Order Approval mini-apps?
 
 **E-commerce Order** is for Small Value Purchase **buyers**. In this mini-app, they can set up corporate billing, view orders, amend order approval details and more.
 
@@ -33,14 +32,14 @@ Due to technical constraints, we cannot hide the approval mini-app from non-AOs.
 ## 2. Set up corporate billing
 
 ### Can I set up corporate billing on any e-commerce store?
-Nope, you can only set up corporate billing on participating e-commerce stores that your agency has subscribed to. Please approach your agency representative for more information.
+You can only set up corporate billing on **participating** e-commerce stores that your agency has subscribed to. Please approach your agency representative for more information.
 
-### Which email address do I use to sign up for an account with e-commerce?
-It depends on the e-commerce mall you are signing up for. 
+### Which email address do I use to sign up for an account with the store?
+It depends on the e-commerce store you are signing up for. 
 
-Some malls allow their users to use their personal account for corporate purchases. Others may need users to sign up for a separate corporate account using their work email.
+Some stores allow their users to use their personal account for corporate purchases. Others may need users to sign up for a separate corporate account using their work email.
 
-### How do I set up corporate billing?
+### How to set up corporate billing
 Before you start, make sure you have:
 * A DWP mobile app account, 
 * An account on the participating e-commerce store, and
@@ -51,7 +50,7 @@ The e-commerce account can be based on your personal email/phone number or a sep
 **Part 1: Enter work email in e-commerce store**
 1. Find the corporate billing setup option in the store. You can refer to the store's corporate billing setup guide.
 2. Enter your **work email**, i.e. Singapore Public Service official email address. It usually ends with .gov.sg, but may differ for some agencies.
-3. If you see the picture below, continue to **Part 2**. [Having issues setting up corporate billing at e-commerce store?](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#i-could-not-set-up-corporate-billing-with-my-work-email-why)
+3. If you see the picture below, continue to **Part 2**. 
 
 ![Set up corporate billing screen](/assets/img_svp_7.png)
 
@@ -59,14 +58,14 @@ The e-commerce account can be based on your personal email/phone number or a sep
 
 Check if you have received a push notification on your mobile telling you to authenticate the corporate billing request.
 
-If you **received** a push notification:
+If you received a push notification:
 1. Tap on the push notification.
 2. Tap **Yes**. When you see a success page, it means your corporate billing account has been added successfully. 
-3. (If you have not set up before) Tap **Proceed to setup** to set up your [agency approval settings](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-my-agency-approval-settings).
+3. (If you have not set up before) Tap **Proceed to setup** to set up your agency approval settings.
 
-If you **did not receive** a push notification:
+If you did not receive a push notification:
 1. Open the E-commerce order mini-app.
-2. Tap on **Accounts**.
+2. Tap **Accounts**.
 3. Tap on the corporate billing request.
 4. Tap **Yes**. When you see a success page, it means your corporate billing account has been added successfully. 
 5. (If you have not set up before) Tap **Proceed to setup** to set up your [agency approval settings](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-set-up-my-agency-approval-settings).
@@ -327,8 +326,7 @@ From the E-commerce Order mini-app:
 1. Go to **Accounts**. Tap on the details of the corporate billing you want to delete.
 2. Tap **Delete corporate billing**.
 3. Tap **Delete** to confirm. 
-
-If the delete is successful, you will see a success page with the title **Corporate billing deleted**.
+4. If the delete is successful, you will see a success page with the title **Corporate billing deleted**.
 
 You can also delete corporate billing at the particular e-commerce store. To do so, please refer to the store’s corporate billing guide.
 
@@ -346,19 +344,19 @@ These FAQs apply for approving officers that use the **E-commerce Order Approval
 
 ### How do I approve an order?
 From the E-commerce Order Approval mini-app:
-1. In the **Pending** tab, tap on the order you want to approve.
+1. In the **Pending** page, tap on the order you want to approve.
 2. Scroll down to the **For Approving Officer** section.
 3. (Optional) Enter your remarks.
 4. Tap **Approve**.
 
 ### How do I reject an order?
 From the E-commerce Order Approval mini-app:
-1. In the **Pending** tab, tap on the order you want to reject.
+1. In the **Pending** page, tap on the order you want to reject.
 2. Scroll down to the **For Approving Officer** section.
 3. Enter your remarks.
 4. Tap **Reject**.
 
-### Why do some orders have a "Cancelled" or "Expired" status in the History tab?
+### Why do some orders have a 'Cancelled' or 'Expired' status in the History page?
 Orders will have the **Cancelled** status if buyers or e-commerce stores cancelled the order. In this case, the e-commerce store will not process the order, even if it was previously approved.
 
 Orders will have the **Expired** status if it was not approved/rejected within a stipulated time. The time is determined by the respective e-commerce store.
