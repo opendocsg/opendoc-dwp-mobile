@@ -135,13 +135,13 @@ If you do not see **Proceed to setup**, it means that you have previously set th
 
 ### How to change agency approval settings
 
-1. Go to the **Settings** page and tap on the agency that you are changing settings for.
+1. Go to the **Settings** tab, and tap on the agency that you are changing settings for.
 2. Confirm your approving officer and frequently used cost centre.
 3. Choose the routing option you prefer.
 4. Tap **Save Changes**. Your preferences will be updated.
 
 ### Do I have to set up my agency approval settings every time I set up corporate billing?
-Nope, it is a one-time setup per agency.
+You do not need to. It is a one-time setup per agency.
 
 ### What if I do not set up my agency approval settings at all?
 You can still check out with corporate billing in the e-commerce store. However, after checkout, the order will be sent to you first via DWP Mobile. You have to send the order to your approving officer manually.
@@ -174,7 +174,7 @@ You cannot have different approval settings for different corporate billing acco
 ## 4. Checkout with corporate billing
 
 ### How to check out with corporate billing
-Tip: For a smoother checkout process, make sure that you have already set up corporate billing.
+Note: We assume that you have already set up corporate billing.
 
 1. During checkout, select corporate billing as the payment option.
 2. Enter the reason for purchase.
@@ -193,21 +193,21 @@ Refer to the table below to see the action(s) needed based on the notification y
 | Action needed: Send your purchase to your approving officer using DWP Mobile before it expires. | Pending confirmation | Your order has NOT been sent to the AO yet. |Send the order to your AO for approval. |
 
 ### How to send your order to your AO for approval
-From the E-commerce Order mini-app:
-1. In the **Orders** page, tap on the order you want to send for approval. 
+
+1. In the **Orders** tab, tap on the order you want to send for approval. 
 2. Scroll down to the bottom of the page.
 Check and/or select the cost centre and approving officer.
 4. Tap **Send for approval**. The order status will be changed to Pending Approval.
 
 
 ### How do I change the cost centre for the order?
-You can change the cost centre in the order’s [**Details** page](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-amend-my-order-approval-details) in E-commerce Order mini-app.
+You can change the cost centre by amending order approval details.
 
 ### How do I send the order to a different approving officer?
-You can [amend the order approval details](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#how-do-i-amend-my-order-approval-details) to send the order to a different approver.
+You can amend the order approval details to send the order to another approving officer.
 
 ### How do I ensure that the order is automatically sent to the AO for my next purchase?
-You can turn on **Auto-send for Approval** in the [agency approval settings page](https://mobilefaq.digitalworkplace.gov.sg/e-commerce%20order.html#can-i-change-my-agency-approval-settings-after-the-initial-setup).
+You can turn on **Auto-send for Approval** in your agency approval settings.
 
 ### How does the order expiry time affect me in procurement?
 From the point of checkout to expiry time, the items are being reserved for you. If the order is not approved within the stipulated time, the sellers will release the reservation.
@@ -215,7 +215,7 @@ From the point of checkout to expiry time, the items are being reserved for you.
 To buy the same goods, you will need to check out with corporate billing again.
 
 ### Where can I see the expiry time for my order?
-In the E-commerce order mini-app, you can see the expiry time in the **Orders** page as well as the **Details** page for the order.
+In the E-commerce order mini-app, you can see the expiry time in the **Orders** tab as well as the **Details** page for the order.
 
 ![](/assets/img_svp_6.png)
 
@@ -227,7 +227,9 @@ The e-commerce store determines the expiry duration. Please approach the store t
 ## 5. View orders
 
 ### Where can I view my order statuses?
-From the E-commerce Order mini-app, go to the **Orders** tab to see the list of orders you made. The order statuses are displayed on the right. You can tap in to know more about the status.
+Go to the **Orders** tab to see the list of orders you made. 
+
+The order statuses are displayed on the right. You can tap in to know more about the status.
 
 The order statuses refer mostly to the approval aspect (e.g. if the order was approved or rejected). For shipping/delivery statuses and time, please check with the e-commerce store.
 
@@ -238,7 +240,7 @@ Refer to the table below.
 | Status | What it means | Action needed by |
 | -------- | -------- | -------- |
 | Pending Submission | Cart is pending submission to AO for approval. Buyer needs to confirm the cost centre and AO, and send the cart to the AO for approval via the mini-app.| Buyer|
-| Pending Approval | Cart has been sent to AO and is pending AO’s approval. | AO |
+| Pending Approval | Cart has been sent to AO and is pending approval. | AO |
 | Approved | AO has approved the order. The e-commerce store will proceed to process the order.| - |
 | Rejected | AO has rejected the order.  The e-commerce store will not process the order. | - |
 | Cancelled | Either the buyer or e-commerce store has cancelled orders of all items in the cart. The e-commerce store will not process the order. | - |
@@ -261,7 +263,7 @@ Changes will be reflected in the following ways:
 ### What is the difference between return and refund?
 **Return** happens when the buyer sends an item back to the seller.  **Refund** happens when the seller sends money back to the agency for the returned item. 
 
-You can return an item before or after the e-commerce store invoices the agency. Returns are subject to the store’s terms and conditions. 
+You can return an item before or after the e-commerce store invoices the agency. Returns are subject to the terms and conditions of the store.
 
 If you return an item after invoicing happens, the store has to issue a refund to the agency for the returned item.
 
@@ -273,8 +275,7 @@ The mini-app only shows the delivery address. For shipping/delivery statuses and
 After sending the order for approval, you can change the cost centre and approving officer for the order within a designated period.
 
 ### How to amend order approval details
-From the E-commerce Order mini-app:
-1. In the **Orders** page, tap on the order you want to amend. 
+1. Go to the **Orders** tab, and tap on the order you want to amend. 
 2. Scroll down to the bottom, and tap **Amend approval**.
 4. Tap **Proceed to amend**. The order status will be changed to Pending Submission.
 5. Make changes to the cost centre and/or approving officer.
@@ -295,8 +296,8 @@ The order changes will be reflected in the mini-app.
 ### How to cancel order
 You can cancel orders through the E-commerce Order mini-app or the e-commerce store.
 
-From the E-commerce Order mini-app:
-1. In the **Orders** tab, tap on the order you want to cancel. 
+From the E-commerce mini-app home page:
+1. Go to the **Orders** tab, and tap on the order you want to cancel. 
 2. Scroll down to the bottom of the page, and tap **Cancel order**.
 4. Tap **Yes, cancel** to confirm.
 
@@ -332,13 +333,13 @@ Yes. You can do that as long as your work email is not tied to an existing e-com
 These FAQs are for approving officers that use the **E-commerce Order Approval** mini-app.
 
 ### How to approve an order
-1. In the **Pending** page, tap on the order you want to approve.
+1. Go to the **Pending** tab, and tap on the order you want to approve.
 2. Scroll down to the **For Approving Officer** section.
 3. (Optional) Enter your remarks.
 4. Tap **Approve**.
 
 ### How to reject an order
-1. In the **Pending** page, tap on the order you want to reject.
+1. Go to the **Pending** tab, and tap on the order you want to reject.
 2. Scroll down to the **For Approving Officer** section.
 3. Enter your remarks.
 4. Tap **Reject**.
